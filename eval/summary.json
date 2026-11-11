@@ -1,0 +1,13 @@
+{
+ "number_checker_self_test_passed": true,
+ "questions": 28,
+ "correct": 28,
+ "in_scope_questions": 24,
+ "in_scope_correct": 24,
+ "out_of_scope_refused": 4,
+ "invented_numbers_total": 0,
+ "avg_cost_usd": 0.00024,
+ "total_cost_usd": 0.0066,
+ "median_latency_s": 2.54,
+ "guardrail_tests_passed": "7/7"
+}

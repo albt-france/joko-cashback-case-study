@@ -1,0 +1,35 @@
+storefront,snapshot,source,avg_rating,rating_count
+fr,2019-08-19,wayback,4.6,393
+fr,2019-11-02,wayback,4.5,952
+fr,2019-12-06,wayback,4.5,1300
+fr,2020-11-27,wayback,4.4,2800
+fr,2021-09-10,wayback,4.3,3600
+fr,2021-12-04,wayback,4.3,3800
+fr,2022-03-15,wayback,4.3,4800
+fr,2022-06-01,wayback,4.4,5700
+fr,2022-07-04,wayback,4.4,6500
+fr,2023-01-27,wayback,4.6,13800
+fr,2023-04-14,wayback,4.6,17200
+fr,2024-05-16,wayback,4.7,46800
+fr,2025-01-19,wayback,4.7,55400
+fr,2025-03-23,wayback,4.7,57600
+fr,2025-04-29,wayback,4.7,57600
+fr,2025-09-23,wayback,4.7,63700
+fr,2025-12-29,wayback,4.7,67676
+fr,2026-02-16,wayback,4.7,70177
+fr,2026-04-20,wayback,4.7,72875
+fr,2026-11-11,live page,4.7,80270
+us,2019-06-22,wayback,3.9,7
+us,2019-11-04,wayback,4.0,8
+us,2023-11-30,wayback,4.1,7
+us,2024-02-27,wayback,4.5,24
+us,2024-09-17,wayback,4.3,28
+us,2025-01-15,wayback,4.4,30
+us,2025-02-10,wayback,4.4,34
+us,2025-04-21,wayback,4.6,61
+us,2025-05-04,wayback,4.7,83
+us,2025-07-13,wayback,4.8,183
+us,2025-12-09,wayback,4.8,429
+us,2026-03-03,wayback,4.8,664
+us,2026-09-24,wayback,4.8,1421
+us,2026-11-11,live page,4.8,1788

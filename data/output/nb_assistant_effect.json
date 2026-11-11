@@ -1,0 +1,10 @@
+{
+ "naive_uplift_pct": 86.0,
+ "adjusted_uplift_pct": 32.9,
+ "adjusted_ci95_pct": [
+  30.9,
+  35.0
+ ],
+ "true_simulated_uplift_pct": 10.0,
+ "adoption_rate_pct": 22.7
+}

@@ -1,0 +1,15 @@
+store,year,reviews,avg_rating,share_1_2_stars,interpretable
+app_store,2019,12,4.33,0.17,True
+app_store,2020,3,5.0,0.0,False
+app_store,2021,2,5.0,0.0,False
+app_store,2022,3,5.0,0.0,False
+app_store,2023,8,4.12,0.12,False
+app_store,2024,10,4.9,0.0,True
+app_store,2025,12,4.67,0.08,True
+app_store,2026,21,4.29,0.14,True
+firefox_extension,2021,3,4.67,0.0,False
+firefox_extension,2022,6,4.5,0.0,False
+firefox_extension,2023,20,4.55,0.0,True
+firefox_extension,2024,17,4.35,0.12,True
+firefox_extension,2025,4,4.0,0.25,False
+firefox_extension,2026,2,5.0,0.0,False

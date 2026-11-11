@@ -1,0 +1,44 @@
+{
+ "n": 100,
+ "accuracy": 0.81,
+ "keyword_accuracy": 0.64,
+ "by_theme": {
+  "app_ux_bugs": {
+   "n": 6,
+   "precision": 1.0
+  },
+  "bank_card_linking": {
+   "n": 2,
+   "precision": 0.5
+  },
+  "coupons_promo_codes": {
+   "n": 2,
+   "precision": 0.0
+  },
+  "customer_support": {
+   "n": 2,
+   "precision": 1.0
+  },
+  "missing_cashback_tracking": {
+   "n": 1,
+   "precision": 0.0
+  },
+  "other": {
+   "n": 33,
+   "precision": 1.0
+  },
+  "payout": {
+   "n": 2,
+   "precision": 1.0
+  },
+  "referral_code": {
+   "n": 41,
+   "precision": 0.659
+  },
+  "savings_value": {
+   "n": 11,
+   "precision": 0.909
+  }
+ },
+ "note": "100 reviews drawn at random (seed 42) and labelled by hand with the AI label visible (not blind). Most disagreements: long reviews ending with a referral code (AI: referral_code; human: main subject)."
+}

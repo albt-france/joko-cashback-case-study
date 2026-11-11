@@ -1,0 +1,675 @@
+merchant_id,merchant_key,merchant,category,on_widilo,on_igraal,n_platforms,median_public_rate_pct,match_method
+1,1jour1vin,1 jour 1 Vin,Food & grocery,True,False,1,2.5,not_found_on_igraal
+2,123pneus,123Pneus,Auto,True,True,2,1.625,exact_name
+3,24mx,24MX,Auto,True,False,1,3.0,not_found_on_igraal
+4,abcroisiere,AB Croisiere,Travel,True,False,1,2.5,not_found_on_igraal
+5,acmilan,AC Milan,Sports,True,False,1,4.5,not_found_on_igraal
+6,allaccorlivelimitless,ALL - Accor Live Limitless,Travel,True,True,2,7.25,exact_name
+7,amnutrition,AM Nutrition,Sports,True,False,1,4.0,not_found_on_igraal
+8,asics,ASICS,Sports,True,True,2,3.915,exact_name
+9,asos,ASOS,Fashion,True,True,2,3.05,exact_name
+10,aboutyou,About You,Fashion,True,True,2,4.025,exact_name
+11,abritel,Abritel,Travel,True,True,2,3.75,exact_name
+12,academiedugout,Académie du gout,Food & grocery,True,False,1,,not_found_on_igraal
+13,acer,Acer,Electronics,True,True,2,4.25,exact_name
+14,achatoretargent,Achat or et argent,Fashion,True,True,2,0.3,exact_name
+15,adameteve,Adam et Eve,Beauty & health,True,True,2,4.5,exact_name
+16,afb,AfB,Electronics,True,False,1,6.0,not_found_on_igraal
+17,agoda,Agoda,Travel,True,True,2,6.25,exact_name
+18,aheadnutrition,Ahead Nutrition,Gifts & flowers,True,False,1,4.0,not_found_on_igraal
+19,airfrance,Air France,Travel,True,True,2,1.41,exact_name
+20,aliexpress,AliExpress,Marketplaces (Asia),True,True,2,23.5,exact_name
+21,alibaba,Alibaba,Marketplaces (Asia),True,False,1,3.2,exact_name
+22,allopneus,Allopneus,Auto,True,False,1,1.8,exact_name
+23,aloavacances,Aloa Vacances,Travel,True,False,1,5.0,not_found_on_igraal
+24,alpinstore,AlpinStore,Sports,True,False,1,3.0,not_found_on_igraal
+25,alpiniste,Alpiniste.fr,Sports,True,False,1,1.0,exact_name
+26,altearah,Altearah,Beauty & health,True,False,1,4.0,not_found_on_igraal
+27,alternaenergie,Alterna énergie,Energy,True,True,2,,exact_name
+28,amazonmusic,Amazon Music,Culture & leisure,True,False,1,,not_found_on_igraal
+29,ambientedirect,AmbienteDirect,Home & garden,True,False,1,4.0,exact_name
+30,amen,Amen,Telecom & subscriptions,True,False,1,15.0,not_found_on_igraal
+31,ammareal,Ammareal,Culture & leisure,True,True,2,3.75,exact_name
+32,animalis,Animalis,Home & garden,True,False,1,5.0,exact_name
+33,ankersolix,Anker SOLIX,Energy,True,False,1,2.5,not_found_on_igraal
+34,aosom,Aosom,Home & garden,True,True,2,4.125,exact_name
+35,appartcity,Appart'City,Travel,True,True,2,2.375,exact_name
+36,asus,Asus,Electronics,True,True,2,9.0,exact_name
+37,ateliermorphee,Atelier Morphée,Home & garden,True,False,1,5.0,not_found_on_igraal
+38,athena,Athena,Fashion,True,True,2,3.5,exact_name
+39,aubade,Aubade,Fashion,True,True,2,5.0,exact_name
+40,autoeurope,Auto Europe,Travel,True,False,1,3.0,not_found_on_igraal
+41,autodesk,Autodesk,Electronics,True,False,1,4.0,exact_name
+42,autodoc,Autodoc,Auto,True,True,2,6.25,exact_name
+43,avamay,Ava & May,Home & garden,True,False,1,10.0,not_found_on_igraal
+44,avis,Avis,Travel,True,True,2,6.75,exact_name
+45,axkid,Axkid,Kids,True,False,1,2.5,not_found_on_igraal
+46,ayurvedaexperience,Ayurveda Experience,Beauty & health,True,False,1,9.0,not_found_on_igraal
+47,bbhotels,B&B HOTELS,Travel,True,True,2,3.0,exact_name
+48,bcdjeux,BCD Jeux,Kids,True,False,1,0.75,not_found_on_igraal
+49,bdfugue,BDfugue,Culture & leisure,True,True,2,4.465,exact_name
+50,bluetti,BLUETTI,Energy,True,False,1,2.5,not_found_on_igraal
+51,bnpparibas,BNP Paribas,Services & finance,True,False,1,,not_found_on_igraal
+52,boohooman,BOOHOOMAN,Fashion,True,True,2,11.0,exact_name
+53,bstn,BSTN,Sports,True,True,2,6.0,exact_name
+54,baage,Baage,Fashion,True,True,2,3.875,exact_name
+55,babbel,Babbel,Services & finance,True,True,2,,exact_name
+56,babybio,Babybio,Food & grocery,True,False,1,6.0,exact_name
+57,babybjorn,Babybjorn,Kids,True,False,1,7.5,exact_name
+58,bagage24,Bagage24,Fashion,True,False,1,1.2,exact_name
+59,balsamhill,Balsam Hill,Home & garden,True,False,1,3.0,not_found_on_igraal
+60,banggood,Banggood,Marketplaces (Asia),True,True,2,5.75,exact_name
+61,baxmusic,Bax Music,Culture & leisure,True,False,1,4.12,not_found_on_igraal
+62,bayardjeunesse,Bayard Jeunesse,Culture & leisure,True,True,2,,exact_name
+63,begreen,Be.green,Energy,True,False,1,7.5,not_found_on_igraal
+64,beaba,Beaba,Kids,True,True,2,4.375,exact_name
+65,beatbot,Beatbot,Home & garden,True,False,1,5.0,not_found_on_igraal
+66,bergamotte,Bergamotte,Gifts & flowers,True,True,2,6.25,exact_name
+67,bershka,Bershka,Fashion,True,True,2,2.0,exact_name
+68,bessonchaussures,Besson Chaussures,Fashion,True,False,1,4.0,not_found_on_igraal
+69,bestdrive,BestDrive,Auto,True,False,1,4.8,not_found_on_igraal
+70,bimago,Bimago,Home & garden,True,True,2,2.25,exact_name
+71,biotyfullbox,Biotyfull Box,Gifts & flowers,True,True,2,2.1,exact_name
+72,bitdefender,Bitdefender,Electronics,True,True,2,29.5,exact_name
+73,blancheporte,Blancheporte,Fashion,True,True,2,4.415,exact_name
+74,blissim,Blissim,Gifts & flowers,True,True,2,4.25,exact_name
+75,blu,Blu,Fashion,True,False,1,5.0,not_found_on_igraal
+76,bluetomato,Blue Tomato,Sports,True,False,1,3.5,not_found_on_igraal
+77,boden,Boden,Kids,True,True,2,3.75,exact_name
+78,boticinal,Boticinal,Beauty & health,True,True,2,3.5,exact_name
+79,boursedesvoyages,Bourse des Voyages,Travel,True,False,1,3.0,not_found_on_igraal
+80,boursobankboursoramabanque,BoursoBank (Boursorama Banque),Services & finance,True,False,1,,not_found_on_igraal
+81,boutiquepsg,Boutique PSG,Sports,True,False,1,7.0,not_found_on_igraal
+82,braun,Braun,Beauty & health,True,True,2,2.75,exact_name
+83,bricodepot,Brico Dépôt,Home & garden,True,True,2,1.15,exact_name
+84,brithotel,Brit Hotel,Travel,True,True,2,3.765,exact_name
+85,brittanyferries,Brittany Ferries,Travel,True,False,1,2.0,not_found_on_igraal
+86,bruneau,Bruneau,B2B,True,True,2,3.65,exact_name
+87,budget,Budget,Travel,True,True,2,4.5,exact_name
+88,budgetair,BudgetAir,Travel,True,True,2,,exact_name
+89,bugaboo,Bugaboo,Kids,True,False,1,3.0,not_found_on_igraal
+90,bultex,Bultex,Home & garden,True,True,2,3.125,exact_name
+91,burga,Burga,Electronics,True,True,2,2.25,exact_name
+92,busuu,Busuu,Services & finance,True,True,2,9.125,exact_name
+93,buttinette,Buttinette,Gifts & flowers,True,True,2,3.665,exact_name
+94,cmonetiquette,C mon etiquette,Gifts & flowers,True,True,2,4.5,exact_name
+95,cbd,CBD.fr,Beauty & health,True,False,1,4.0,exact_name
+96,calvinklein,Calvin Klein,Fashion,True,True,2,8.375,exact_name
+97,calzedonia,Calzedonia,Fashion,True,False,1,6.0,exact_name
+98,campanile,Campanile,Travel,True,True,2,3.05,exact_name
+99,campingandco,Camping and co,Travel,True,False,1,1.5,exact_name
+100,campings,Campings.com,Travel,True,True,2,1.25,exact_name
+101,canalplus,Canal Plus,Culture & leisure,True,False,1,,not_found_on_igraal
+102,canon,Canon,Electronics,True,True,2,2.3,exact_name
+103,carrefour,Carrefour,Food & grocery,True,False,1,,not_found_on_igraal
+104,carrefourassuranceanimaux,Carrefour Assurance Animaux,Services & finance,True,False,1,,not_found_on_igraal
+105,cartouchedutoner,Cartouche du Toner,B2B,True,False,1,10.0,not_found_on_igraal
+106,castorama,Castorama,Home & garden,True,True,2,2.0,exact_name
+107,cdiscount,Cdiscount,Electronics,True,True,2,2.5,exact_name
+108,cdiscountbilletterie,Cdiscount Billetterie,Culture & leisure,True,True,2,0.45,exact_name
+109,cdiscountmobile,Cdiscount Mobile,Telecom & subscriptions,True,False,1,,not_found_on_igraal
+110,cdiscountvoyages,Cdiscount Voyages,Travel,True,True,2,2.0,exact_name
+111,cewephoto,Cewe Photo,Culture & leisure,True,False,1,7.2,not_found_on_igraal
+112,charleskeith,Charles & Keith,Fashion,True,False,1,3.5,not_found_on_igraal
+113,charlestyrwhitt,Charles Tyrwhitt,Fashion,True,True,2,4.665,exact_name
+114,chaussea,Chaussea,Fashion,True,False,1,2.5,exact_name
+115,cheerz,Cheerz,Culture & leisure,True,True,2,6.25,exact_name
+116,chicco,Chicco,Kids,True,False,1,3.0,not_found_on_igraal
+117,christopherobin,Christophe Robin,Beauty & health,True,True,2,7.5,exact_name
+118,chronopost,Chronopost,Services & finance,True,True,2,3.5,exact_name
+119,citadium,Citadium,Sports,True,True,2,4.0,exact_name
+120,clarins,Clarins,Beauty & health,True,True,2,6.165,exact_name
+121,cleor,Cleor,Fashion,True,True,2,5.9,exact_name
+122,clickboat,Click & Boat,Sports,True,True,2,5.75,exact_name
+123,comptoirdesnuits,Comptoir des Nuits,Home & garden,True,True,2,2.875,exact_name
+124,conforama,Conforama,Home & garden,True,True,2,3.0,exact_name
+125,conteenium,Conteenium,Services & finance,True,True,2,3.5,exact_name
+126,copytop,Copytop,B2B,True,False,1,3.0,not_found_on_igraal
+127,coursgriffon,Cours Griffon,Services & finance,True,True,2,5.5,exact_name
+128,coursera,Coursera,Services & finance,True,False,1,12.0,not_found_on_igraal
+129,coursesu,Courses U,Food & grocery,True,True,2,,exact_name
+130,cricut,Cricut,Gifts & flowers,True,True,2,5.5,exact_name
+131,crocs,Crocs,Fashion,True,True,2,3.15,exact_name
+132,crosscall,Crosscall,Electronics,True,False,1,2.5,not_found_on_igraal
+133,cuirsguignard,Cuirs Guignard,Fashion,True,False,1,3.1,not_found_on_igraal
+134,cyberghostvpn,CyberGhost VPN,Services & finance,True,True,2,57.5,exact_name
+135,cyrillus,Cyrillus,Kids,True,True,2,2.665,exact_name
+136,dazn,DAZN,Culture & leisure,True,True,2,46.25,exact_name
+137,dhgate,DHgate,Marketplaces (Asia),True,True,2,2.125,exact_name
+138,dji,DJI,Culture & leisure,True,True,2,4.5,exact_name
+139,dpam,DPAM,Kids,True,False,1,5.0,not_found_on_igraal
+140,dainese,Dainese,Auto,True,False,1,2.0,not_found_on_igraal
+141,damart,Damart,Fashion,True,True,2,1.95,exact_name
+142,daparto,Daparto,Auto,True,True,2,1.83,exact_name
+143,darty,Darty,Electronics,True,True,2,9.25,exact_name
+144,deezer,Deezer,Culture & leisure,True,True,2,,exact_name
+145,deguisetoi,Deguise toi,Gifts & flowers,True,True,2,1.75,exact_name
+146,degustabox,Degusta Box,Gifts & flowers,True,False,1,,not_found_on_igraal
+147,deliveroo,Deliveroo,Food & grocery,True,True,2,1.8199999999999998,exact_name
+148,delsey,Delsey,Fashion,True,True,2,2.875,exact_name
+149,deporvillage,Deporvillage,Sports,True,False,1,3.0,exact_name
+150,desktronic,Desktronic,B2B,True,False,1,2.5,not_found_on_igraal
+151,difmark,Difmark,Electronics,True,False,1,3.5,not_found_on_igraal
+152,directassuranceauto,Direct Assurance Auto,Services & finance,True,False,1,,not_found_on_igraal
+153,directferries,Direct Ferries,Travel,True,True,2,1.75,exact_name
+154,disneystore,Disney Store,Kids,True,True,2,3.5,exact_name
+155,disney,Disney+,Culture & leisure,True,True,2,12.21,exact_name
+156,disneylandparis,Disneyland Paris,Travel,True,True,2,,exact_name
+157,disneylandparisbelgique,Disneyland Paris Belgique,Culture & leisure,True,False,1,,not_found_on_igraal
+158,docmorrisexdoctipharma,DocMorris (ex Doctipharma),Beauty & health,True,False,1,5.5,not_found_on_igraal
+159,dogchef,Dog Chef,Home & garden,True,False,1,,not_found_on_igraal
+160,dolcegusto,Dolce Gusto,Food & grocery,True,True,2,6.5,exact_name
+161,dominospizza,Domino's Pizza,Food & grocery,True,True,2,3.5,exact_name
+162,doro,Doro,Electronics,True,True,2,3.5,exact_name
+163,drpierrericaud,Dr Pierre Ricaud,Beauty & health,True,True,2,5.75,exact_name
+164,dreame,Dreame,Electronics,True,False,1,3.33,not_found_on_igraal
+165,dyson,Dyson,Beauty & health,True,True,2,4.5,exact_name
+166,eleclerc,E.Leclerc,Food & grocery,True,False,1,2.5,not_found_on_igraal
+167,edf,EDF,Energy,True,True,2,,exact_name
+168,engie,ENGIE,Energy,True,True,2,,exact_name
+169,esn,ESN,Sports,True,False,1,6.0,not_found_on_igraal
+170,easeus,EaseUS,Electronics,True,False,1,30.0,not_found_on_igraal
+171,eastpak,Eastpak,Fashion,True,True,2,2.75,exact_name
+172,easyflyer,EasyFlyer,B2B,True,True,2,5.08,exact_name
+173,ecoflow,EcoFlow,Energy,True,False,1,2.5,not_found_on_igraal
+174,eminence,Eminence,Fashion,True,True,2,3.625,exact_name
+175,emiratesholidays,Emirates Holidays,Travel,True,False,1,1.0,not_found_on_igraal
+176,emma,Emma,Home & garden,True,True,2,7.325,exact_name
+177,enterpriserentacar,Enterprise Rent-A-Car,Travel,True,False,1,4.0,not_found_on_igraal
+178,epeda,Epeda,Home & garden,True,False,1,3.5,not_found_on_igraal
+179,ericfavre,Eric Favre,Sports,True,False,1,2.0,exact_name
+180,essixhome,Essix Home,Home & garden,True,False,1,2.5,not_found_on_igraal
+181,etsy,Etsy,Gifts & flowers,True,True,2,2.2,exact_name
+182,eufymake,Eufy Make,Electronics,True,False,1,4.0,not_found_on_igraal
+183,euromaster,Euromaster,Auto,True,True,2,3.25,exact_name
+184,europcar,Europcar,Auto,True,True,2,7.25,exact_name
+185,evancy,Evancy,Travel,True,False,1,2.5,exact_name
+186,expedia,Expedia,Travel,True,True,2,4.0,exact_name
+187,expressvpn,ExpressVPN,Services & finance,True,True,2,27.155,exact_name
+188,extimetravel,Extime Travel,Travel,True,False,1,7.5,not_found_on_igraal
+189,f1store,F1 Store,Sports,True,False,1,1.0,not_found_on_igraal
+190,farfetch,FARFETCH,Fashion,True,True,2,3.0,exact_name
+191,fcmoto,FC Moto,Auto,True,True,2,2.83,exact_name
+192,footdistrict,FOOTDISTRICT,Fashion,True,True,2,5.5,exact_name
+193,fanatical,Fanatical,Electronics,True,False,1,3.0,not_found_on_igraal
+194,fanatics,Fanatics,Sports,True,False,1,2.5,not_found_on_igraal
+195,farnell,Farnell,B2B,True,True,2,4.0,exact_name
+196,fermob,Fermob,Home & garden,True,False,1,4.0,not_found_on_igraal
+197,ferryhopper,Ferryhopper,Travel,True,False,1,1.5,not_found_on_igraal
+198,fever,Fever,Travel,True,True,2,9.4,exact_name
+199,figurinesgoodies,Figurines-Goodies,Kids,True,False,1,3.5,not_found_on_igraal
+200,fiido,Fiido,Sports,True,False,1,4.5,not_found_on_igraal
+201,fitadium,Fitadium,Sports,True,True,2,3.5,exact_name
+202,fitnessboutique,Fitness Boutique,Sports,True,True,2,2.25,exact_name
+203,fizzer,Fizzer,Culture & leisure,True,True,2,5.5,exact_name
+204,fleurancenature,Fleurance Nature,Beauty & health,True,True,2,12.0,exact_name
+205,flexispot,Flexispot,B2B,True,True,2,4.5,exact_name
+206,flibco,Flibco,Travel,True,False,1,7.5,not_found_on_igraal
+207,flixbus,Flixbus,Travel,True,True,2,2.5,exact_name
+208,flykube,Flykube,Travel,True,False,1,1.5,not_found_on_igraal
+209,fnac,Fnac,Culture & leisure,True,False,1,10.0,exact_name
+210,fnacpro,Fnac Pro,B2B,True,False,1,5.5,not_found_on_igraal
+211,foodbagbelgique,Foodbag belgique,Food & grocery,True,False,1,,not_found_on_igraal
+212,footcenter,Foot Center,Sports,True,False,1,2.5,exact_name
+213,footlocker,Foot Locker,Fashion,True,True,2,5.75,exact_name
+214,footstore,Foot Store,Sports,True,True,2,2.25,exact_name
+215,foreo,Foreo,Beauty & health,True,False,1,4.8,not_found_on_igraal
+216,fortuneo,Fortuneo,Services & finance,True,False,1,,not_found_on_igraal
+217,fram,Fram,Travel,True,True,2,2.5,exact_name
+218,franceabonnements,France Abonnements,Culture & leisure,True,True,2,,exact_name
+219,franklinpetfood,Franklin Pet Food,Home & garden,True,False,1,10.0,not_found_on_igraal
+220,francoisesaget,Françoise Saget,Home & garden,True,True,2,4.125,exact_name
+221,free,Free,Telecom & subscriptions,True,False,1,,not_found_on_igraal
+222,freemobile,Free Mobile,Telecom & subscriptions,True,False,1,,not_found_on_igraal
+223,free2move,Free2Move,Travel,True,False,1,5.0,not_found_on_igraal
+224,fulli,Fulli,Sports,True,True,2,,exact_name
+225,funko,Funko,Kids,True,False,1,5.0,not_found_on_igraal
+226,furla,Furla,Fashion,True,True,2,2.75,exact_name
+227,g2a,G2A,Electronics,True,False,1,1.84,not_found_on_igraal
+228,ghdhair,GHD Hair,Beauty & health,True,False,1,2.0,not_found_on_igraal
+229,galaxus,Galaxus,B2B,True,True,2,2.75,exact_name
+230,gambettesbox,Gambettes Box,Gifts & flowers,True,True,2,5.7,exact_name
+231,gameduell,Game Duell,Culture & leisure,True,False,1,,not_found_on_igraal
+232,gamivo,Gamivo,Electronics,True,True,2,2.25,exact_name
+233,gear4music,Gear4Music,Culture & leisure,True,False,1,2.5,not_found_on_igraal
+234,geekbuying,Geekbuying,Marketplaces (Asia),True,True,2,3.25,exact_name
+235,genybet,Genybet,Culture & leisure,True,False,1,,not_found_on_igraal
+236,getyourguide,GetYourGuide,Travel,True,True,2,8.5,exact_name
+237,gites,Gites.fr,Travel,True,False,1,2.5,not_found_on_igraal
+238,globalexam,GlobalExam,B2B,True,False,1,16.0,not_found_on_igraal
+239,glowria,Glowria,Beauty & health,True,True,2,,exact_name
+240,govoyages,Go Voyages,Travel,True,True,2,6.5,exact_name
+241,goldcar,Goldcar,Travel,True,False,1,6.0,not_found_on_igraal
+242,googlestore,Google Store,Electronics,True,True,2,5.5,exact_name
+243,gorillasports,Gorilla Sports,Sports,True,True,2,2.65,exact_name
+244,govee,Govee,Home & garden,True,False,1,4.5,not_found_on_igraal
+245,grandoptical,Grand Optical,Beauty & health,True,False,1,5.5,not_found_on_igraal
+246,greenweez,Greenweez,Food & grocery,True,True,2,,exact_name
+247,groupon,Groupon,Gifts & flowers,True,True,2,4.0,exact_name
+248,gymshark,Gymshark,Sports,True,True,2,2.8,exact_name
+249,generaledoptique,Générale d'Optique,Beauty & health,True,True,2,5.75,exact_name
+250,hm,H&M,Fashion,True,True,2,4.125,exact_name
+251,hbmmachines,HBM Machines,Home & garden,True,False,1,3.6,not_found_on_igraal
+252,hp,HP,Electronics,True,True,2,1.5,exact_name
+253,huawei,HUAWEI,Electronics,True,True,2,3.0,exact_name
+254,hugoboss,HUGO BOSS,Fashion,True,True,2,6.875,exact_name
+255,habitatetjardin,Habitat et Jardin,Home & garden,True,True,2,1.69,exact_name
+256,hairburst,Hairburst,Beauty & health,True,True,2,4.58,exact_name
+257,halara,Halara,Sports,True,False,1,4.0,not_found_on_igraal
+258,handballstore,Handball Store,Sports,True,True,2,2.25,exact_name
+259,happygarden,Happy Garden,Home & garden,True,False,1,4.0,not_found_on_igraal
+260,hardloop,Hardloop,Sports,True,True,2,0.75,exact_name
+261,hawkers,Hawkers,Beauty & health,True,False,1,6.5,not_found_on_igraal
+262,headout,Headout,Travel,True,False,1,12.0,not_found_on_igraal
+263,hellofresh,HelloFresh,Food & grocery,True,True,2,,exact_name
+264,hellodeco,Hellodeco,Home & garden,True,True,2,5.5,exact_name
+265,hellofreshbelgique,Hellofresh Belgique,Food & grocery,True,False,1,,not_found_on_igraal
+266,hellyhansen,Helly Hansen,Sports,True,False,1,4.0,not_found_on_igraal
+267,histoiredor,Histoire d'Or,Fashion,True,True,2,2.75,exact_name
+268,holidu,Holidu,Travel,True,False,1,4.0,not_found_on_igraal
+269,homeappliancesphilips,Home Appliances Philips,Electronics,True,False,1,4.0,not_found_on_igraal
+270,hometogo,Home To Go,Travel,True,False,1,2.0,not_found_on_igraal
+271,honor,Honor,Electronics,True,True,2,6.5,exact_name
+272,hostelworld,Hostelworld,Travel,True,False,1,17.5,not_found_on_igraal
+273,hostinger,Hostinger,Services & finance,True,True,2,35.625,exact_name
+274,hotels,Hotels.com,Travel,True,True,2,5.0,exact_name
+275,idmarket,IDmarket,Home & garden,True,True,2,5.875,exact_name
+276,ign,IGN,Electronics,True,False,1,3.5,not_found_on_igraal
+277,ihghotel,IHG Hotel,Travel,True,False,1,1.0,not_found_on_igraal
+278,icewatch,Ice-Watch,Fashion,True,True,2,3.75,exact_name
+279,icipresentexmasterbox,Ici Present (Ex Masterbox),Gifts & flowers,True,False,1,2.0,not_found_on_igraal
+280,incogni,Incogni,Services & finance,True,False,1,20.0,not_found_on_igraal
+281,inderwear,Inderwear,Fashion,True,True,2,4.875,exact_name
+282,inmacwstore,Inmac Wstore,B2B,True,False,1,3.5,not_found_on_igraal
+283,insta360,Insta360,Electronics,True,True,2,2.125,exact_name
+284,interflora,Interflora,Gifts & flowers,True,True,2,4.875,exact_name
+285,intimissimi,Intimissimi,Fashion,True,False,1,6.0,exact_name
+286,isabelmarant,Isabel Marant,Fashion,True,False,1,5.0,not_found_on_igraal
+287,isinwheel,Isinwheel,Sports,True,False,1,4.0,not_found_on_igraal
+288,isotoner,Isotoner,Fashion,True,True,2,3.875,exact_name
+289,izac,Izac,Fashion,True,True,2,4.5,exact_name
+290,izipizi,Izipizi,Beauty & health,True,True,2,4.625,exact_name
+291,jbl,JBL,Electronics,True,True,2,4.1,exact_name
+292,jdsports,JD Sports,Sports,True,True,2,3.875,exact_name
+293,japhy,Japhy,Home & garden,True,False,1,,not_found_on_igraal
+294,jardinloisirs,Jardin Loisirs,Home & garden,True,True,2,3.25,fuzzy_manual
+295,jimdo,Jimdo,Services & finance,True,True,2,,exact_name
+296,joom,Joom,Marketplaces (Asia),True,True,2,8.625,exact_name
+297,joueclub,Joueclub,Kids,True,True,2,2.4,exact_name
+298,jow,Jow,Food & grocery,True,False,1,6.0,exact_name
+299,joybuy,Joybuy,Marketplaces (Asia),True,False,1,10.5,not_found_on_igraal
+300,juskys,Juskys,Home & garden,True,False,1,5.0,not_found_on_igraal
+301,juwelo,Juwelo,Fashion,True,False,1,4.0,exact_name
+302,k4g,K4G,Electronics,True,False,1,1.0,not_found_on_igraal
+303,kiko,KIKO,Beauty & health,True,True,2,5.375,exact_name
+304,kaptenson,Kapten Son,Fashion,True,False,1,2.5,not_found_on_igraal
+305,karcher,Karcher,Home & garden,True,True,2,2.25,exact_name
+306,kaspersky,Kaspersky,Electronics,True,True,2,18.0,exact_name
+307,kerastase,Kerastase,Beauty & health,True,True,2,3.35,exact_name
+308,kidsaround,Kids Around,Kids,True,True,2,3.8,exact_name
+309,kinguin,Kinguin,Electronics,True,True,2,4.4,exact_name
+310,kiosquemag,KiosqueMag,Culture & leisure,True,True,2,,exact_name
+311,kipling,Kipling,Fashion,True,False,1,4.0,exact_name
+312,kitbag,Kitbag,Sports,True,False,1,2.5,not_found_on_igraal
+313,klook,Klook,Travel,True,False,1,10.8,not_found_on_igraal
+314,loccitane,L'Occitane,Beauty & health,True,True,2,3.65,exact_name
+315,lorespresso,L'Or Espresso,Food & grocery,True,True,2,7.75,exact_name
+316,lolivierassurance,L'olivier Assurance,Services & finance,True,False,1,,exact_name
+317,lolivierassurancehabitation,L'olivier Assurance Habitation,Services & finance,True,False,1,,exact_name
+318,lego,LEGO®,Kids,True,True,2,5.75,exact_name
+319,lg,LG,Electronics,True,True,2,3.8,exact_name
+320,lookfantastic,LOOKFANTASTIC,Beauty & health,True,True,2,6.6,exact_name
+321,laboutiqueducoiffeur,La Boutique Du Coiffeur,Beauty & health,True,True,2,4.7,exact_name
+322,laboutiqueofficiellefff,La Boutique Officielle FFF,Sports,True,False,1,4.0,not_found_on_igraal
+323,labecanerie,La Bécanerie,Auto,True,True,2,1.75,exact_name
+324,lagranderecre,La Grande Récré,Kids,True,True,2,3.25,exact_name
+325,lamaisonduwhisky,La Maison du Whisky,Food & grocery,True,False,1,3.0,not_found_on_igraal
+326,lapostemobile,La Poste Mobile,Telecom & subscriptions,True,True,2,,exact_name
+327,laredoute,La Redoute,Fashion,True,True,2,1.5,exact_name
+328,larocheposay,La Roche Posay,Beauty & health,True,True,2,5.125,exact_name
+329,lacoste,Lacoste,Fashion,True,True,2,4.0,exact_name
+330,laifentech,Laifen Tech,Beauty & health,True,False,1,2.5,not_found_on_igraal
+331,lampeetlumiere,Lampe et Lumière,Home & garden,True,False,1,2.5,not_found_on_igraal
+332,lavinia,Lavinia,Food & grocery,True,False,1,3.5,not_found_on_igraal
+333,legeantdesbeauxarts,Le Géant des Beaux-Arts,Culture & leisure,True,True,2,2.75,exact_name
+334,lepetitballon,Le Petit Ballon,Food & grocery,True,True,2,3.375,exact_name
+335,lematelasvert,Le matelas vert,Home & garden,True,False,1,6.0,not_found_on_igraal
+336,lebaramobile,Lebara Mobile,Telecom & subscriptions,True,True,2,,exact_name
+337,lenovo,Lenovo,Electronics,True,True,2,1.875,exact_name
+338,lentiamo,Lentiamo,Beauty & health,True,True,2,2.75,exact_name
+339,lentillesmoinscheres,Lentilles Moins Cheres,Beauty & health,True,False,1,,exact_name
+340,lespetitsprodiges,Les Petits Prödiges,Kids,True,True,2,2.25,exact_name
+341,lespoulettes,Les poulettes,Beauty & health,True,True,2,4.58,exact_name
+342,lessecretsdeloly,Les secrets de loly,Beauty & health,True,False,1,2.5,not_found_on_igraal
+343,levis,Levi's,Fashion,True,True,2,6.5,exact_name
+344,lidl,Lidl,Food & grocery,True,True,2,3.75,exact_name
+345,lights4fun,Lights4fun,Home & garden,True,True,2,2.25,exact_name
+346,ligue1,Ligue 1+,Culture & leisure,True,False,1,,not_found_on_igraal
+347,linvosges,Linvosges,Home & garden,True,True,2,3.75,exact_name
+348,linvosgesbelgique,Linvosges Belgique,Home & garden,True,False,1,4.0,not_found_on_igraal
+349,litierfrancais,Litier Français,Home & garden,True,False,1,2.0,not_found_on_igraal
+350,loadedexcdkeys,Loaded (ex CDKeys),Electronics,True,False,1,2.5,not_found_on_igraal
+351,logitravel,Logitravel,Travel,True,False,1,2.9,not_found_on_igraal
+352,lokkirent,Lokki Rent,Sports,True,False,1,2.0,not_found_on_igraal
+353,looking4parking,Looking4parking,Travel,True,True,2,3.0,exact_name
+354,loopearplugs,LoopEarplugs,Electronics,True,True,2,2.5,exact_name
+355,loveandvibes,Love and Vibes,Beauty & health,True,True,2,3.75,exact_name
+356,lufthansa,Lufthansa,Travel,True,True,2,0.725,exact_name
+357,luminaire,Luminaire.fr,Home & garden,True,True,2,4.0,exact_name
+358,lunii,Lunii,Kids,True,True,2,5.0,exact_name
+359,leanature,Léa Nature,Beauty & health,True,True,2,3.5,exact_name
+360,msccroisieres,MSC Croisieres,Travel,True,False,1,2.92,exact_name
+361,myposter,MYPOSTER,Culture & leisure,True,True,2,5.08,exact_name
+362,madamevacances,Madame Vacances,Travel,True,False,1,4.5,not_found_on_igraal
+363,madura,Madura,Home & garden,True,True,2,3.65,exact_name
+364,magnifaik,Magnifaik,Beauty & health,True,False,1,2.5,not_found_on_igraal
+365,maisonberger,Maison Berger,Home & garden,True,True,2,2.75,exact_name
+366,maisonmontagut,Maison Montagut,Home & garden,True,False,1,4.0,not_found_on_igraal
+367,maisonsdumonde,Maisons du Monde,Home & garden,True,True,2,4.75,exact_name
+368,mammotion,Mammotion,Home & garden,True,False,1,3.0,not_found_on_igraal
+369,manomano,ManoMano,Home & garden,True,True,2,9.25,exact_name
+370,manomanopro,Manomano Pro,Home & garden,True,True,2,12.0,exact_name
+371,marcorian,Marc Orian,Fashion,True,True,2,2.75,exact_name
+372,marionnaud,Marionnaud,Beauty & health,True,True,2,3.75,exact_name
+373,marshallheadphones,Marshall Headphones,Electronics,True,False,1,2.5,not_found_on_igraal
+374,maxizoo,Maxi Zoo,Home & garden,True,True,2,4.75,exact_name
+375,maxicosi,Maxi-Cosi,Kids,True,False,1,3.5,not_found_on_igraal
+376,maxicours,Maxicours,Services & finance,True,False,1,10.75,not_found_on_igraal
+377,maxiscoot,Maxiscoot,Auto,True,True,2,2.75,exact_name
+378,maxxess,Maxxess,Auto,True,True,2,3.25,exact_name
+379,meetic,Meetic,Culture & leisure,True,True,2,33.0,exact_name
+380,meilleurtauxassuranceauto,Meilleurtaux Assurance Auto,Services & finance,True,False,1,,not_found_on_igraal
+381,merinos,Merinos,Home & garden,True,True,2,3.97,exact_name
+382,michaelkors,Michael Kors,Fashion,True,True,2,3.0,exact_name
+383,michenaud,Michenaud.com,Culture & leisure,True,False,1,2.5,not_found_on_igraal
+384,micromania,Micromania,Electronics,True,True,2,3.4,exact_name
+385,miliboo,Miliboo,Home & garden,True,True,2,3.25,exact_name
+386,molotovtv,Molotov TV,Culture & leisure,True,False,1,5.0,not_found_on_igraal
+387,momcozy,Momcozy,Kids,True,False,1,4.0,not_found_on_igraal
+388,momox,Momox,Culture & leisure,True,False,1,5.0,exact_name
+389,monchauffagisteprive,Mon Chauffagiste Prive,Energy,True,False,1,5.0,not_found_on_igraal
+390,monoeuvre,MonOeuvre,Home & garden,True,True,2,4.3,exact_name
+391,mondofficeexjpg,Mondoffice (Ex Jpg),B2B,True,False,1,2.0,not_found_on_igraal
+392,monoprix,Monoprix,Food & grocery,True,True,2,2.4,exact_name
+393,montagnevacances,Montagne Vacances,Sports,True,False,1,,exact_name
+394,morphea,Morphea,Home & garden,True,False,1,4.0,not_found_on_igraal
+395,mosalingua,Mosalingua,Services & finance,True,False,1,19.23,not_found_on_igraal
+396,motoaxxe,Moto Axxe,Auto,True,True,2,3.25,exact_name
+397,motoin,Motoin,Auto,True,False,1,2.0,not_found_on_igraal
+398,motointegrator,Motointegrator,Auto,True,False,1,2.8,not_found_on_igraal
+399,mova,Mova,Beauty & health,True,False,1,3.0,not_found_on_igraal
+400,muji,Muji,Home & garden,True,False,1,6.0,not_found_on_igraal
+401,musculation,Musculation.com,Sports,True,False,1,4.23,not_found_on_igraal
+402,muule,Muule,Fashion,True,False,1,3.5,not_found_on_igraal
+403,myjewellery,My Jewellery,Fashion,True,False,1,5.0,not_found_on_igraal
+404,mylittlebox,My Little Box,Gifts & flowers,True,False,1,10.0,exact_name
+405,myphotobook,MyPhotobook,Culture & leisure,True,True,2,6.875,exact_name
+406,myprotein,Myprotein,Sports,True,True,2,7.75,exact_name
+407,netaporter,NET-A-PORTER,Fashion,True,True,2,1.375,exact_name
+408,nflgamepass,NFL Game Pass,Culture & leisure,True,False,1,,exact_name
+409,nrjmobile,NRJ Mobile,Telecom & subscriptions,True,True,2,,exact_name
+410,nausicaa,Nausicaa,Culture & leisure,True,False,1,4.9,not_found_on_igraal
+411,navimow,Navimow,Home & garden,True,False,1,3.0,not_found_on_igraal
+412,netski,Netski,Sports,True,True,2,3.6,exact_name
+413,newera,New Era,Fashion,True,True,2,1.875,exact_name
+414,newcop,Newcop,Fashion,True,False,1,3.85,not_found_on_igraal
+415,nexplay,NexPlay,Culture & leisure,True,False,1,3.5,not_found_on_igraal
+416,nocibe,Nocibé,Beauty & health,True,True,2,6.5,exact_name
+417,nomadeshop,Nomadeshop,Sports,True,False,1,2.5,exact_name
+418,norauto,Norauto,Auto,True,True,2,1.15,exact_name
+419,nordvpn,NordVPN,Services & finance,True,True,2,40.0,exact_name
+420,nordictrack,NordicTrack,Sports,True,False,1,6.67,not_found_on_igraal
+421,notino,Notino,Beauty & health,True,True,2,2.75,exact_name
+422,noukies,Noukies,Kids,True,False,1,3.0,not_found_on_igraal
+423,nouslib,NousLib,Beauty & health,True,False,1,34.85,not_found_on_igraal
+424,nutrilifeshop,Nutrilife Shop,Sports,True,False,1,5.0,not_found_on_igraal
+425,nuxe,Nuxe,Beauty & health,True,True,2,4.0,exact_name
+426,ohmycream,Oh my cream,Beauty & health,True,True,2,2.85,exact_name
+427,ohmenergie,Ohm Energie,Energy,True,False,1,,not_found_on_igraal
+428,okamac,Okamac,Electronics,True,True,2,2.25,exact_name
+429,olightstore,Olight Store,Home & garden,True,True,2,4.665,exact_name
+430,omio,Omio,Travel,True,True,2,1.5,exact_name
+431,on,On,Sports,True,False,1,4.0,not_found_on_igraal
+432,onbuy,OnBuy,Marketplaces (Asia),True,False,1,1.5,not_found_on_igraal
+433,onlineprinters,Onlineprinters,B2B,True,False,1,5.0,not_found_on_igraal
+434,openferry,Open Ferry,Travel,True,False,1,2.0,not_found_on_igraal
+435,opisto,Opisto,Services & finance,True,False,1,1.0,not_found_on_igraal
+436,opodo,Opodo,Travel,True,True,2,,exact_name
+437,oppo,Oppo,Electronics,True,False,1,4.9,not_found_on_igraal
+438,opticalcenter,Optical Center,Beauty & health,True,False,1,6.0,exact_name
+439,oralb,Oral-B,Beauty & health,True,True,2,7.5,exact_name
+440,orange,Orange,Telecom & subscriptions,True,False,1,,not_found_on_igraal
+441,orchestra,Orchestra,Kids,True,True,2,5.0,exact_name
+442,oscaro,Oscaro,Auto,True,False,1,2.1,exact_name
+443,osram,Osram,Home & garden,True,False,1,4.0,not_found_on_igraal
+444,ouigo,Ouigo,Travel,True,True,2,1.75,exact_name
+445,pccomponentes,PC Componentes,B2B,True,False,1,4.2,not_found_on_igraal
+446,pcportable,PC-Portable,Electronics,True,True,2,4.665,exact_name
+447,plaudai,PLAUD.AI,Electronics,True,False,1,2.5,not_found_on_igraal
+448,pandacola,Pandacola,B2B,True,True,2,2.33,exact_name
+449,pandora,Pandora,Fashion,True,True,2,6.0,exact_name
+450,parasanteonline,ParaSantéOnline,Beauty & health,True,False,1,3.5,not_found_on_igraal
+451,parallels,Parallels,Electronics,True,True,2,10.5,exact_name
+452,parcasterix,Parc Astérix,Travel,True,True,2,,exact_name
+453,parfumdreams,Parfumdreams,Beauty & health,True,False,1,2.5,exact_name
+454,parkimeter,Parkimeter,Travel,True,False,1,2.5,not_found_on_igraal
+455,passagedudesir,Passage du désir,Beauty & health,True,False,1,3.5,exact_name
+456,patpat,PatPat,Kids,True,False,1,4.0,not_found_on_igraal
+457,performe,Performe,Sports,True,False,1,2.64,not_found_on_igraal
+458,pharmaciepradomermoz,Pharmacie Prado-Mermoz,Beauty & health,True,False,1,5.0,not_found_on_igraal
+459,philips,Philips,Beauty & health,True,True,2,5.125,exact_name
+460,philipshue,Philips Hue,Home & garden,True,True,2,3.125,exact_name
+461,photoboxmonalbumphoto,Photobox (Mon Album Photo),Culture & leisure,True,False,1,3.0,not_found_on_igraal
+462,photoweb,Photoweb,Culture & leisure,True,False,1,5.0,exact_name
+463,piecesauto24,PiecesAuto24,Auto,True,True,2,4.75,exact_name
+464,piecesauto,Piecesauto.fr,Auto,True,False,1,5.0,exact_name
+465,pierreetvacances,Pierre et Vacances,Travel,True,False,1,2.25,not_found_on_igraal
+466,pimpant,Pimpant,Beauty & health,True,True,2,5.0,exact_name
+467,pinupsecret,Pin Up Secret,Beauty & health,True,True,2,3.77,exact_name
+468,pixartprinting,Pixartprinting,B2B,True,True,2,6.85,exact_name
+469,pixmania,Pixmania,B2B,True,True,2,3.0,exact_name
+470,piecesetpneus,Pièces et Pneus,Auto,True,False,1,1.5,exact_name
+471,planetfoot,PlanetFoot,Sports,True,False,1,1.5,not_found_on_igraal
+472,playstationdirect,Playstation Direct,Electronics,True,False,1,8.0,not_found_on_igraal
+473,ploonk,Ploonk,Electronics,True,False,1,3.0,not_found_on_igraal
+474,pneus,Pneus.fr,Auto,True,False,1,2.0,not_found_on_igraal
+475,prescriptionlab,Prescription Lab,Gifts & flowers,True,True,2,,exact_name
+476,primor,Primor,Beauty & health,True,False,1,1.0,not_found_on_igraal
+477,printabout,PrintAbout,B2B,True,True,2,4.5,exact_name
+478,printemps,Printemps.com,Fashion,True,True,2,5.0,exact_name
+479,printerpix,Printerpix,Culture & leisure,True,False,1,6.0,exact_name
+480,privateinternetaccess,Private Internet Access,Services & finance,True,False,1,70.0,not_found_on_igraal
+481,privatesportshop,Private Sport Shop,Sports,True,True,2,2.125,exact_name
+482,privebyzalando,Privé by Zalando,Fashion,True,True,2,3.415,fuzzy_manual
+483,pronutrition,Pro Nutrition,Sports,True,False,1,3.5,not_found_on_igraal
+484,proteinworks,Protein Works,Sports,True,True,2,9.5,exact_name
+485,protonvpn,Proton VPN,Services & finance,True,False,1,60.0,not_found_on_igraal
+486,proximusbelgique,Proximus Belgique,Telecom & subscriptions,True,True,2,,exact_name
+487,puissante,Puissante,Beauty & health,True,False,1,3.0,not_found_on_igraal
+488,pullandbear,Pull and Bear,Fashion,True,False,1,3.0,not_found_on_igraal
+489,puma,Puma,Sports,True,True,2,7.5,exact_name
+490,purevpn,PureVPN,Services & finance,True,False,1,12.5,not_found_on_igraal
+491,purizon,Purizon,Home & garden,True,False,1,1.5,not_found_on_igraal
+492,qatarairways,Qatar Airways,Travel,True,True,2,1.7,exact_name
+493,qobuz,Qobuz,Culture & leisure,True,True,2,5.0,exact_name
+494,quitoque,Quitoque,Food & grocery,True,True,2,,exact_name
+495,rad,RAD,Sports,True,False,1,3.5,not_found_on_igraal
+496,rmcsport,RMC Sport,Culture & leisure,True,True,2,,exact_name
+497,rs,RS,B2B,True,False,1,3.0,not_found_on_igraal
+498,raja,Raja,B2B,True,True,2,2.5,exact_name
+499,ralphlauren,Ralph Lauren,Fashion,True,True,2,6.1,exact_name
+500,ravensburger,Ravensburger,Kids,True,True,2,4.0,exact_name
+501,rayban,Ray Ban,Beauty & health,True,True,2,5.875,exact_name
+502,rayondorbagages,Rayon d'or bagages,Fashion,True,False,1,3.0,not_found_on_igraal
+503,realmadridshop,Real Madrid Shop,Sports,True,False,1,2.5,not_found_on_igraal
+504,recyclivre,Recyclivre,Culture & leisure,True,True,2,2.25,exact_name
+505,redbubble,Redbubble,Culture & leisure,True,True,2,2.25,exact_name
+506,redcarepharmacieshoppharmacie,Redcare Pharmacie (Shop Pharmacie),Beauty & health,True,False,1,5.46,not_found_on_igraal
+507,rentacar,Rent A Car,Travel,True,False,1,1.8,exact_name
+508,retif,Retif,B2B,True,False,1,4.0,not_found_on_igraal
+509,roborock,Roborock,Electronics,True,True,2,5.3,exact_name
+510,rougieretple,Rougier et Plé,Kids,True,False,1,2.0,not_found_on_igraal
+511,rowenta,Rowenta,Electronics,True,False,1,3.91,not_found_on_igraal
+512,rueducommerce,Rue Du Commerce,B2B,True,True,2,1.75,exact_name
+513,ruedesplaisirs,Rue des Plaisirs,Beauty & health,True,False,1,3.5,exact_name
+514,ruggable,Ruggable,Home & garden,True,False,1,0.5,not_found_on_igraal
+515,ryobi,Ryobi,Home & garden,True,False,1,3.0,not_found_on_igraal
+516,rejeanne,Réjeanne,Fashion,True,True,2,5.5,exact_name
+517,shein,SHEIN,Fashion,True,True,2,13.0,exact_name
+518,sncfconnect,SNCF Connect,Travel,True,True,2,2.0,exact_name
+519,saily,Saily,Telecom & subscriptions,True,True,2,7.5,exact_name
+520,samsung,Samsung,Electronics,True,True,2,2.5,exact_name
+521,sandisk,Sandisk,Electronics,True,False,1,2.5,not_found_on_igraal
+522,sanscomplexe,Sans Complexe,Fashion,True,True,2,5.625,exact_name
+523,santevet,Santévet,Services & finance,True,False,1,,not_found_on_igraal
+524,sarenza,Sarenza,Fashion,True,True,2,5.25,exact_name
+525,sauthon,Sauthon,Kids,True,False,1,2.0,not_found_on_igraal
+526,scarletbelgique,Scarlet Belgique,Telecom & subscriptions,True,False,1,,not_found_on_igraal
+527,screwfix,Screwfix,Home & garden,True,True,2,3.25,exact_name
+528,seetickets,See Tickets,Culture & leisure,True,False,1,,exact_name
+529,sephora,Sephora,Beauty & health,True,True,2,3.0,exact_name
+530,sexyavenue,Sexy Avenue,Beauty & health,True,True,2,6.375,exact_name
+531,sharkninja,SharkNinja,Electronics,True,True,2,2.15,exact_name
+532,shokz,Shokz,Electronics,True,False,1,6.0,not_found_on_igraal
+533,shop2shop,Shop2Shop,Services & finance,True,True,2,2.25,exact_name
+534,siemens,Siemens,Electronics,True,True,2,8.0,exact_name
+535,sihoo,Sihoo,B2B,True,False,1,2.0,not_found_on_igraal
+536,silamp,Silamp,Home & garden,True,False,1,4.5,not_found_on_igraal
+537,sixt,Sixt,Travel,True,True,2,6.1,exact_name
+538,skechers,Skechers,Fashion,True,False,1,5.5,not_found_on_igraal
+539,skiset,SkiSet,Sports,True,True,2,4.0,exact_name
+540,sklum,Sklum,Home & garden,True,False,1,0.5,exact_name
+541,skylum,Skylum,Electronics,True,False,1,10.0,not_found_on_igraal
+542,slomeexhypnia,Slome (ex Hypnia),Home & garden,True,False,1,4.28,not_found_on_igraal
+543,smallable,Smallable,Kids,True,True,2,2.25,exact_name
+544,smartbox,Smartbox,Gifts & flowers,True,True,2,6.75,exact_name
+545,snipes,Snipes,Fashion,True,True,2,2.25,exact_name
+546,snowrental,Snowrental,Sports,True,False,1,4.0,not_found_on_igraal
+547,solebox,Solebox,Fashion,True,False,1,2.5,not_found_on_igraal
+548,songmics,Songmics,Home & garden,True,True,2,3.25,exact_name
+549,sonos,Sonos,Electronics,True,True,2,1.875,exact_name
+550,sony,Sony,Electronics,True,True,2,4.25,exact_name
+551,sosh,Sosh,Telecom & subscriptions,True,False,1,,not_found_on_igraal
+552,soundcore,Soundcore,Electronics,True,True,2,4.375,exact_name
+553,sowell,Sowell,Travel,True,True,2,2.25,exact_name
+554,spavillathalgo,Spa Villa Thalgo,Beauty & health,True,False,1,4.0,not_found_on_igraal
+555,sparklersclub,Sparklers Club,Gifts & flowers,True,False,1,1.92,not_found_on_igraal
+556,spartoo,Spartoo,Fashion,True,True,2,3.6,exact_name
+557,speedway,Speedway,Auto,True,True,2,3.375,exact_name
+558,speedy,Speedy,Auto,True,True,2,5.6,exact_name
+559,sport2000locationdeski,Sport 2000 Location de Ski,Sports,True,False,1,6.5,not_found_on_igraal
+560,sportdecouverte,Sport Découverte,Sports,True,True,2,4.0,exact_name
+561,sportisgood,Sport is Good,Sports,True,False,1,2.5,not_found_on_igraal
+562,sportsdirect,Sports Direct,Sports,True,True,2,1.875,exact_name
+563,sportsevents365,Sports events 365,Culture & leisure,True,False,1,2.7,not_found_on_igraal
+564,stageentertainment,Stage Entertainment,Culture & leisure,True,False,1,1.0,not_found_on_igraal
+565,stanley,Stanley,Gifts & flowers,True,False,1,1.5,not_found_on_igraal
+566,starlink,Starlink,Telecom & subscriptions,True,False,1,,not_found_on_igraal
+567,startselect,Startselect,Electronics,True,True,2,2.5,exact_name
+568,stokke,Stokke,Kids,True,False,1,2.5,not_found_on_igraal
+569,storesdiscount,Stores discount,Home & garden,True,False,1,1.0,not_found_on_igraal
+570,stylevana,Stylevana,Beauty & health,True,True,2,2.35,exact_name
+571,sunparks,Sunparks,Travel,True,True,2,2.25,exact_name
+572,sunparksbelgique,Sunparks Belgique,Travel,True,False,1,1.88,not_found_on_igraal
+573,surfshark,Surfshark,Services & finance,True,True,2,30.0,exact_name
+574,surplusmotos,Surplus Motos,Auto,True,True,2,2.375,exact_name
+575,swarovski,Swarovski,Fashion,True,True,2,1.75,exact_name
+576,symamobile,Syma Mobile,Telecom & subscriptions,True,False,1,,not_found_on_igraal
+577,takeawaybelgique,Takeaway Belgique,Food & grocery,True,True,2,6.5,exact_name
+578,taskrabbit,Taskrabbit,Services & finance,True,False,1,,not_found_on_igraal
+579,tassimo,Tassimo,Electronics,True,False,1,3.9,exact_name
+580,tediber,Tediber,Home & garden,True,False,1,3.5,not_found_on_igraal
+581,tempur,Tempur,Home & garden,True,True,2,3.65,exact_name
+582,temu,Temu,Home & garden,True,True,2,26.0,exact_name
+583,tennispoint,Tennis-Point,Sports,True,True,2,1.79,exact_name
+584,tenways,Tenways,Sports,True,False,1,1.5,not_found_on_igraal
+585,tezenis,Tezenis,Fashion,True,True,2,5.375,exact_name
+586,thalasseo,Thalasseo,Beauty & health,True,True,2,2.5,exact_name
+587,theoriginalshumanhotelsresorts,The Originals Human Hotels & Resorts,Travel,True,False,1,3.9,fuzzy_manual
+588,theoutnet,The Outnet,Fashion,True,False,1,3.0,exact_name
+589,ticombo,Ticombo,Culture & leisure,True,False,1,7.5,not_found_on_igraal
+590,tiktokshop,TikTok Shop,Marketplaces (Asia),True,False,1,14.0,not_found_on_igraal
+591,tiqets,Tiqets,Travel,True,True,2,2.5,exact_name
+592,tissusdereve,Tissus de rêve,Home & garden,True,False,1,3.0,not_found_on_igraal
+593,tommyhilfiger,Tommy Hilfiger,Fashion,True,True,2,8.375,exact_name
+594,tonerservices,Toner Services,B2B,True,True,2,8.25,exact_name
+595,topdrinks,Top Drinks,Food & grocery,True,False,1,3.0,not_found_on_igraal
+596,toryburch,Tory Burch,Fashion,True,False,1,5.0,not_found_on_igraal
+597,tostadora,Tostadora,Gifts & flowers,True,True,2,4.5,exact_name
+598,trainline,Trainline,Travel,True,True,2,10.5,exact_name
+599,transaviaholidays,Transavia Holidays,Travel,True,False,1,1.0,not_found_on_igraal
+600,treatwell,Treatwell,Beauty & health,True,True,2,2.25,exact_name
+601,trekexpert,Trek Expert,Sports,True,False,1,2.5,not_found_on_igraal
+602,trip,Trip.com,Travel,True,True,2,7.75,exact_name
+603,uber,Uber,Travel,True,False,1,,exact_name
+604,ubereats,Uber Eats,Food & grocery,True,True,2,,exact_name
+605,ubigi,Ubigi,Telecom & subscriptions,True,False,1,9.0,not_found_on_igraal
+606,udemy,Udemy,Services & finance,True,True,2,4.5,exact_name
+607,ugreen,Ugreen,B2B,True,True,2,6.25,exact_name
+608,ulike,Ulike,Beauty & health,True,False,1,5.0,not_found_on_igraal
+609,ultrapremiumdirect,Ultra Premium Direct,Home & garden,True,True,2,8.9,exact_name
+610,ulysbyvinciautoroutes,Ulys by VINCI Autoroutes,Travel,True,False,1,,not_found_on_igraal
+611,unamourdetapis,Un amour de tapis,Home & garden,True,False,1,4.0,not_found_on_igraal
+612,underarmour,Under Armour,Sports,True,True,2,5.25,exact_name
+613,unepetitemousse,Une Petite Mousse,Food & grocery,True,True,2,2.25,exact_name
+614,urbankicks,UrbanKicks,Fashion,True,False,1,9.0,not_found_on_igraal
+615,vipcars,VIP Cars,Travel,True,False,1,25.0,not_found_on_igraal
+616,valege,Valege,Fashion,True,False,1,7.0,not_found_on_igraal
+617,velostore,Velo Store,Sports,True,False,1,2.5,not_found_on_igraal
+618,vertbaudetbelgique,Vertbaudet Belgique,Kids,True,False,1,4.0,not_found_on_igraal
+619,vevor,Vevor,Home & garden,True,True,2,2.1,exact_name
+620,viagogo,Viagogo,Culture & leisure,True,False,1,3.5,not_found_on_igraal
+621,viapresse,Viapresse,Culture & leisure,True,True,2,15.0,exact_name
+622,vidaxl,Vidaxl,Home & garden,True,True,2,2.75,exact_name
+623,vilmorin,Vilmorin,Home & garden,True,False,1,3.08,not_found_on_igraal
+624,vinatis,Vinatis,Food & grocery,True,True,2,2.0,exact_name
+625,visiondirect,Vision Direct,Beauty & health,True,False,1,5.0,exact_name
+626,vistaprint,VistaPrint,B2B,True,True,2,5.0,exact_name
+627,vitrinemagique,Vitrine Magique,Home & garden,True,True,2,4.5,exact_name
+628,vivara,Vivara,Home & garden,True,False,1,2.5,exact_name
+629,vogels,Vogel's,Electronics,True,False,1,4.0,not_found_on_igraal
+630,voghion,Voghion,Marketplaces (Asia),True,True,2,7.75,exact_name
+631,volotea,Volotea,Travel,True,True,2,,exact_name
+632,voyageprive,Voyage Privé,Travel,True,True,2,3.75,exact_name
+633,walibirhonealpes,Walibi Rhône-Alpes,Travel,True,False,1,2.5,not_found_on_igraal
+634,wavytalk,Wavytalk,Beauty & health,True,False,1,7.5,not_found_on_igraal
+635,wearewild,We are Wild,Beauty & health,True,False,1,6.0,not_found_on_igraal
+636,weekendesk,Weekendesk,Travel,True,False,1,6.4,not_found_on_igraal
+637,weightworld,WeightWorld,Beauty & health,True,False,1,2.5,exact_name
+638,westernunion,Western Union,Services & finance,True,False,1,,exact_name
+639,whatnot,Whatnot,Kids,True,False,1,5.0,not_found_on_igraal
+640,wild,Wild,Beauty & health,True,False,1,6.0,not_found_on_igraal
+641,wolfofwilderness,Wolf of Wilderness,Home & garden,True,False,1,1.5,not_found_on_igraal
+642,womanizer,Womanizer,Beauty & health,True,True,2,7.0,exact_name
+643,wondershare,Wondershare,Electronics,True,False,1,20.0,not_found_on_igraal
+644,woodbrass,Woodbrass,Culture & leisure,True,True,2,3.35,exact_name
+645,xiaomi,Xiaomi,Electronics,True,True,2,3.25,exact_name
+646,yslbeauty,YSL Beauty,Beauty & health,True,False,1,6.0,not_found_on_igraal
+647,yoox,Yoox,Fashion,True,True,2,1.675,exact_name
+648,youprice,Youprice,Telecom & subscriptions,True,True,2,,exact_name
+649,yvesrocher,Yves Rocher,Beauty & health,True,True,2,4.085,exact_name
+650,zadigvoltaire,Zadig&Voltaire,Fashion,True,True,2,7.5,exact_name
+651,zecamping,Ze Camping,Travel,True,True,2,2.85,exact_name
+652,zooparcdebeauval,ZooParc de Beauval,Travel,True,False,1,5.6,not_found_on_igraal
+653,zoomalia,Zoomalia,Home & garden,True,False,1,4.8,exact_name
+654,zooplus,Zooplus,Home & garden,True,True,2,2.125,exact_name
+655,zumub,Zumub,Sports,True,False,1,3.5,not_found_on_igraal
+656,zyclora,Zyclora,Sports,True,False,1,2.0,not_found_on_igraal
+657,adidas,adidas,Sports,True,True,2,5.25,exact_name
+658,adopte,adopte,Culture & leisure,True,False,1,25.0,not_found_on_igraal
+659,bulk,bulk,Sports,True,False,1,4.8,exact_name
+660,carvertical,carVertical,Auto,True,True,2,,exact_name
+661,ebay,eBay,Gifts & flowers,True,True,2,1.4,exact_name
+662,edreams,eDreams,Travel,True,True,2,,exact_name
+663,espaceplaisir,espaceplaisir,Beauty & health,True,False,1,5.0,exact_name
+664,irun,i-Run,Sports,True,True,2,4.0,exact_name
+665,ibood,iBOOD,Electronics,True,True,2,1.75,exact_name
+666,idgarages,iDGarages,Auto,True,True,2,2.145,exact_name
+667,idealofsweden,iDeal of Sweden,Fashion,True,False,1,3.0,exact_name
+668,iherb,iHerb,Beauty & health,True,True,2,5.0,exact_name
+669,iscooter,iScooter,Sports,True,False,1,3.0,not_found_on_igraal
+670,lastminute,lastminute.com,Travel,True,True,2,,exact_name
+671,lululemon,lululemon,Sports,True,True,2,5.75,exact_name
+672,malentille,malentille,Beauty & health,True,False,1,2.0,not_found_on_igraal
+673,rebuy,reBuy,B2B,True,True,2,1.625,exact_name
+674,xtool,xTool,Home & garden,True,False,1,1.5,not_found_on_igraal

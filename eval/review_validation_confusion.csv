@@ -1,0 +1,8 @@
+human_theme,app_ux_bugs,bank_card_linking,coupons_promo_codes,customer_support,missing_cashback_tracking,other,payout,referral_code,savings_value
+app_ux_bugs,6,1,1,0,0,0,0,0,0
+bank_card_linking,0,1,0,0,0,0,0,1,0
+customer_support,0,0,0,2,0,0,0,0,0
+other,0,0,0,0,0,33,0,0,1
+payout,0,0,0,0,0,0,2,0,0
+referral_code,0,0,0,0,0,0,0,27,0
+savings_value,0,0,1,0,1,0,0,13,10

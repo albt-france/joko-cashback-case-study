@@ -1,0 +1,17 @@
+category,merchants,median_rate_pct,p75_rate_pct,share_fixed_pct,share_boosted_pct,median_validation_days_widilo
+Services & finance,32,12.25,33.75,33.3,24.4,61.0
+Telecom & subscriptions,16,9.0,10.5,81.8,22.7,61.0
+Marketplaces (Asia),10,5.75,10.5,0.0,31.3,61.0
+Culture & leisure,47,5.0,6.25,29.0,7.2,61.0
+Beauty & health,73,4.35,6.0,2.7,16.8,61.0
+B2B,27,4.0,5.38,0.0,16.7,61.0
+Gifts & flowers,21,4.0,5.0,8.3,5.6,61.0
+Fashion,74,3.73,5.08,0.0,13.7,61.0
+Electronics,59,3.5,5.0,0.0,26.9,61.0
+Home & garden,78,3.5,4.75,1.7,11.3,61.0
+Sports,66,3.5,4.5,3.3,18.5,61.0
+Kids,30,3.33,5.0,0.0,7.0,61.0
+Food & grocery,26,3.0,5.75,36.6,14.6,61.0
+Travel,79,3.0,5.0,15.8,13.3,61.0
+Auto,27,2.5,4.15,4.5,18.2,61.0
+Energy,9,2.5,5.0,58.3,16.7,61.0

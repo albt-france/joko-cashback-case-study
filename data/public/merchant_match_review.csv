@@ -1,0 +1,8 @@
+widilo_name,igraal_name,score,igraal_key,decision,note
+The Originals Human Hotels & Resorts,The Originals Hotels Human & Resorts,100.0,theoriginalshotelshumanresorts,accept,same hotel group; words in a different order
+Lounge by Zalando Belgique,Zalando Lounge Belgique,93.9,zalandoloungebelgique,accept,same Zalando outlet for Belgium (renamed)
+Morphea,Morphe,92.3,morphe,reject,different companies (Morphe is a US cosmetics brand)
+La Boutique Officielle FFF,La Boutique Officielle,91.7,laboutiqueofficielle,reject,"too generic on iGraal: cannot confirm it is the French football federation shop"
+Skylum,Sklum,90.9,sklum,reject,different companies (photo software vs furniture)
+Jardin Loisirs,Jardins-Loisirs,89.7,jardinsloisirs,accept,same garden retailer; plural and hyphen only
+Privé by Zalando,Zalando Privé,89.7,zalandoprive,accept,same Zalando private-sales site (renamed)

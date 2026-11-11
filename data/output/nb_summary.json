@@ -1,0 +1,25 @@
+{
+ "auc": 0.754,
+ "brier": 0.194,
+ "base_rate": 0.382,
+ "train_users": 13989,
+ "test_users": 10512,
+ "retention_by_first_purchase_14d": {
+  "0": 0.292,
+  "1": 0.628
+ },
+ "rates": {
+  "merchants_compared": 316,
+  "median_gap_pts": 1.0,
+  "median_gap_ci95": [
+   0.75,
+   1.0
+  ],
+  "mean_gap_pts": 1.04,
+  "share_widilo_higher": 0.759,
+  "share_tie": 0.051,
+  "share_igraal_higher": 0.19,
+  "wilcoxon_p_value": 4.861521682856109e-18,
+  "median_relative_gap_pct": 25.0
+ }
+}

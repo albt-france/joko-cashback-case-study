@@ -1,0 +1,301 @@
+merchant_id,merchant,category,median_public_rate_pct
+14,Achat or et argent,Fashion,0.3
+15,Adam et Eve,Beauty & health,4.5
+17,Agoda,Travel,6.25
+2,123Pneus,Auto,1.625
+19,Air France,Travel,1.41
+20,AliExpress,Marketplaces (Asia),23.5
+664,i-Run,Sports,4.0
+665,iBOOD,Electronics,1.75
+666,iDGarages,Auto,2.145
+668,iHerb,Beauty & health,5.0
+671,lululemon,Sports,5.75
+673,reBuy,B2B,1.625
+13,Acer,Electronics,4.25
+621,Viapresse,Culture & leisure,15.0
+622,Vidaxl,Home & garden,2.75
+624,Vinatis,Food & grocery,2.0
+626,VistaPrint,B2B,5.0
+38,Athena,Fashion,3.5
+39,Aubade,Fashion,5.0
+42,Autodoc,Auto,6.25
+44,Avis,Travel,6.75
+47,B&B HOTELS,Travel,3.0
+642,Womanizer,Beauty & health,7.0
+644,Woodbrass,Culture & leisure,3.35
+60,Banggood,Marketplaces (Asia),5.75
+64,Beaba,Kids,4.375
+66,Bergamotte,Gifts & flowers,6.25
+34,Aosom,Home & garden,4.125
+35,Appart'City,Travel,2.375
+36,Asus,Electronics,9.0
+627,Vitrine Magique,Home & garden,4.5
+630,Voghion,Marketplaces (Asia),7.75
+632,Voyage Privé,Travel,3.75
+602,Trip.com,Travel,7.75
+606,Udemy,Services & finance,4.5
+607,Ugreen,B2B,6.25
+609,Ultra Premium Direct,Home & garden,8.9
+612,Under Armour,Sports,5.25
+613,Une Petite Mousse,Food & grocery,2.25
+619,Vevor,Home & garden,2.1
+586,Thalasseo,Beauty & health,2.5
+591,Tiqets,Travel,2.5
+73,Blancheporte,Fashion,4.415
+74,Blissim,Gifts & flowers,4.25
+77,Boden,Kids,3.75
+78,Boticinal,Beauty & health,3.5
+82,Braun,Beauty & health,2.75
+83,Brico Dépôt,Home & garden,1.15
+49,BDfugue,Culture & leisure,4.465
+52,BOOHOOMAN,Fashion,11.0
+53,BSTN,Sports,6.0
+54,Baage,Fashion,3.875
+593,Tommy Hilfiger,Fashion,8.375
+594,Toner Services,B2B,8.25
+597,Tostadora,Gifts & flowers,4.5
+598,Trainline,Travel,10.5
+600,Treatwell,Beauty & health,2.25
+570,Stylevana,Beauty & health,2.35
+571,Sunparks,Travel,2.25
+573,Surfshark,Services & finance,30.0
+91,Burga,Electronics,2.25
+92,Busuu,Services & finance,9.125
+93,Buttinette,Gifts & flowers,3.665
+94,C mon etiquette,Gifts & flowers,4.5
+96,Calvin Klein,Fashion,8.375
+98,Campanile,Travel,3.05
+100,Campings.com,Travel,1.25
+67,Bershka,Fashion,2.0
+70,Bimago,Home & garden,2.25
+71,Biotyfull Box,Gifts & flowers,2.1
+72,Bitdefender,Electronics,29.5
+113,Charles Tyrwhitt,Fashion,4.665
+115,Cheerz,Culture & leisure,6.25
+117,Christophe Robin,Beauty & health,7.5
+118,Chronopost,Services & finance,3.5
+119,Citadium,Sports,4.0
+120,Clarins,Beauty & health,6.165
+84,Brit Hotel,Travel,3.765
+86,Bruneau,B2B,3.65
+87,Budget,Travel,4.5
+90,Bultex,Home & garden,3.125
+574,Surplus Motos,Auto,2.375
+575,Swarovski,Fashion,1.75
+577,Takeaway Belgique,Food & grocery,6.5
+581,Tempur,Home & garden,3.65
+582,Temu,Home & garden,26.0
+583,Tennis-Point,Sports,1.79
+585,Tezenis,Fashion,5.375
+550,Sony,Electronics,4.25
+552,Soundcore,Electronics,4.375
+553,Sowell,Travel,2.25
+556,Spartoo,Fashion,3.6
+127,Cours Griffon,Services & finance,5.5
+130,Cricut,Gifts & flowers,5.5
+131,Crocs,Fashion,3.15
+134,CyberGhost VPN,Services & finance,57.5
+135,Cyrillus,Kids,2.665
+136,DAZN,Culture & leisure,46.25
+137,DHgate,Marketplaces (Asia),2.125
+102,Canon,Electronics,2.3
+106,Castorama,Home & garden,2.0
+107,Cdiscount,Electronics,2.5
+108,Cdiscount Billetterie,Culture & leisure,0.45
+110,Cdiscount Voyages,Travel,2.0
+145,Deguise toi,Gifts & flowers,1.75
+147,Deliveroo,Food & grocery,1.8199999999999998
+148,Delsey,Fashion,2.875
+153,Direct Ferries,Travel,1.75
+154,Disney Store,Kids,3.5
+155,Disney+,Culture & leisure,12.21
+121,Cleor,Fashion,5.9
+122,Click & Boat,Sports,5.75
+123,Comptoir des Nuits,Home & garden,2.875
+124,Conforama,Home & garden,3.0
+125,Conteenium,Services & finance,3.5
+557,Speedway,Auto,3.375
+558,Speedy,Auto,5.6
+560,Sport Découverte,Sports,4.0
+562,Sports Direct,Sports,1.875
+567,Startselect,Electronics,2.5
+534,Siemens,Electronics,8.0
+537,Sixt,Travel,6.1
+539,SkiSet,Sports,4.0
+171,Eastpak,Fashion,2.75
+172,EasyFlyer,B2B,5.08
+174,Eminence,Fashion,3.625
+176,Emma,Home & garden,7.325
+138,DJI,Culture & leisure,4.5
+141,Damart,Fashion,1.95
+142,Daparto,Auto,1.83
+143,Darty,Electronics,9.25
+543,Smallable,Kids,2.25
+544,Smartbox,Gifts & flowers,6.75
+545,Snipes,Fashion,2.25
+548,Songmics,Home & garden,3.25
+549,Sonos,Electronics,1.875
+516,Réjeanne,Fashion,5.5
+517,SHEIN,Fashion,13.0
+518,SNCF Connect,Travel,2.0
+519,Saily,Telecom & subscriptions,7.5
+520,Samsung,Electronics,2.5
+184,Europcar,Auto,7.25
+186,Expedia,Travel,4.0
+187,ExpressVPN,Services & finance,27.155
+190,FARFETCH,Fashion,3.0
+191,FC Moto,Auto,2.83
+192,FOOTDISTRICT,Fashion,5.5
+160,Dolce Gusto,Food & grocery,6.5
+161,Domino's Pizza,Food & grocery,3.5
+162,Doro,Electronics,3.5
+163,Dr Pierre Ricaud,Beauty & health,5.75
+165,Dyson,Beauty & health,4.5
+201,Fitadium,Sports,3.5
+202,Fitness Boutique,Sports,2.25
+203,Fizzer,Culture & leisure,5.5
+204,Fleurance Nature,Beauty & health,12.0
+205,Flexispot,B2B,4.5
+207,Flixbus,Travel,2.5
+181,Etsy,Gifts & flowers,2.2
+183,Euromaster,Auto,3.25
+522,Sans Complexe,Fashion,5.625
+524,Sarenza,Fashion,5.25
+527,Screwfix,Home & garden,3.25
+529,Sephora,Beauty & health,3.0
+530,Sexy Avenue,Beauty & health,6.375
+531,SharkNinja,Electronics,2.15
+533,Shop2Shop,Services & finance,2.25
+499,Ralph Lauren,Fashion,6.1
+500,Ravensburger,Kids,4.0
+501,Ray Ban,Beauty & health,5.875
+504,Recyclivre,Culture & leisure,2.25
+220,Françoise Saget,Home & garden,4.125
+226,Furla,Fashion,2.75
+229,Galaxus,B2B,2.75
+230,Gambettes Box,Gifts & flowers,5.7
+232,Gamivo,Electronics,2.25
+195,Farnell,B2B,4.0
+198,Fever,Travel,9.4
+505,Redbubble,Culture & leisure,2.25
+509,Roborock,Electronics,5.3
+512,Rue Du Commerce,B2B,1.75
+481,Private Sport Shop,Sports,2.125
+482,Privé by Zalando,Fashion,3.415
+484,Protein Works,Sports,9.5
+242,Google Store,Electronics,5.5
+243,Gorilla Sports,Sports,2.65
+247,Groupon,Gifts & flowers,4.0
+248,Gymshark,Sports,2.8
+249,Générale d'Optique,Beauty & health,5.75
+250,H&M,Fashion,4.125
+213,Foot Locker,Fashion,5.75
+214,Foot Store,Sports,2.25
+217,Fram,Travel,2.5
+489,Puma,Sports,7.5
+492,Qatar Airways,Travel,1.7
+493,Qobuz,Culture & leisure,5.0
+498,Raja,B2B,2.5
+463,PiecesAuto24,Auto,4.75
+466,Pimpant,Beauty & health,5.0
+467,Pin Up Secret,Beauty & health,3.77
+468,Pixartprinting,B2B,6.85
+258,Handball Store,Sports,2.25
+260,Hardloop,Sports,0.75
+264,Hellodeco,Home & garden,5.5
+267,Histoire d'Or,Fashion,2.75
+234,Geekbuying,Marketplaces (Asia),3.25
+236,GetYourGuide,Travel,8.5
+240,Go Voyages,Travel,6.5
+469,Pixmania,B2B,3.0
+477,PrintAbout,B2B,4.5
+478,Printemps.com,Fashion,5.0
+446,PC-Portable,Electronics,4.665
+448,Pandacola,B2B,2.33
+449,Pandora,Fashion,6.0
+451,Parallels,Electronics,10.5
+278,Ice-Watch,Fashion,3.75
+281,Inderwear,Fashion,4.875
+283,Insta360,Electronics,2.125
+284,Interflora,Gifts & flowers,4.875
+252,HP,Electronics,1.5
+253,HUAWEI,Electronics,3.0
+254,HUGO BOSS,Fashion,6.875
+255,Habitat et Jardin,Home & garden,1.69
+256,Hairburst,Beauty & health,4.58
+459,Philips,Beauty & health,5.125
+460,Philips Hue,Home & garden,3.125
+428,Okamac,Electronics,2.25
+429,Olight Store,Home & garden,4.665
+430,Omio,Travel,1.5
+439,Oral-B,Beauty & health,7.5
+441,Orchestra,Kids,5.0
+444,Ouigo,Travel,1.75
+412,Netski,Sports,3.6
+413,New Era,Fashion,1.875
+416,Nocibé,Beauty & health,6.5
+292,JD Sports,Sports,3.875
+294,Jardin Loisirs,Home & garden,3.25
+296,Joom,Marketplaces (Asia),8.625
+297,Joueclub,Kids,2.4
+303,KIKO,Beauty & health,5.375
+271,Honor,Electronics,6.5
+273,Hostinger,Services & finance,35.625
+274,Hotels.com,Travel,5.0
+275,IDmarket,Home & garden,5.875
+418,Norauto,Auto,1.15
+419,NordVPN,Services & finance,40.0
+421,Notino,Beauty & health,2.75
+425,Nuxe,Beauty & health,4.0
+426,Oh my cream,Beauty & health,2.85
+392,Monoprix,Food & grocery,2.4
+396,Moto Axxe,Auto,3.25
+314,L'Occitane,Beauty & health,3.65
+315,L'Or Espresso,Food & grocery,7.75
+318,LEGO®,Kids,5.75
+319,LG,Electronics,3.8
+320,LOOKFANTASTIC,Beauty & health,6.6
+321,La Boutique Du Coiffeur,Beauty & health,4.7
+288,Isotoner,Fashion,3.875
+289,Izac,Fashion,4.5
+290,Izipizi,Beauty & health,4.625
+291,JBL,Electronics,4.1
+405,MyPhotobook,Culture & leisure,6.875
+406,Myprotein,Sports,7.75
+407,NET-A-PORTER,Fashion,1.375
+377,Maxiscoot,Auto,2.75
+378,Maxxess,Auto,3.25
+379,Meetic,Culture & leisure,33.0
+381,Merinos,Home & garden,3.97
+333,Le Géant des Beaux-Arts,Culture & leisure,2.75
+334,Le Petit Ballon,Food & grocery,3.375
+337,Lenovo,Electronics,1.875
+338,Lentiamo,Beauty & health,2.75
+340,Les Petits Prödiges,Kids,2.25
+341,Les poulettes,Beauty & health,4.58
+305,Karcher,Home & garden,2.25
+306,Kaspersky,Electronics,18.0
+307,Kerastase,Beauty & health,3.35
+308,Kids Around,Kids,3.8
+309,Kinguin,Electronics,4.4
+353,Looking4parking,Travel,3.0
+354,LoopEarplugs,Electronics,2.5
+355,Love and Vibes,Beauty & health,3.75
+356,Lufthansa,Travel,0.725
+357,Luminaire.fr,Home & garden,4.0
+358,Lunii,Kids,5.0
+323,La Bécanerie,Auto,1.75
+324,La Grande Récré,Kids,3.25
+327,La Redoute,Fashion,1.5
+328,La Roche Posay,Beauty & health,5.125
+329,Lacoste,Fashion,4.0
+382,Michael Kors,Fashion,3.0
+384,Micromania,Electronics,3.4
+385,Miliboo,Home & garden,3.25
+390,MonOeuvre,Home & garden,4.3
+359,Léa Nature,Beauty & health,3.5
+361,MYPOSTER,Culture & leisure,5.08
+363,Madura,Home & garden,3.65
+365,Maison Berger,Home & garden,2.75
+367,Maisons du Monde,Home & garden,4.75
+369,ManoMano,Home & garden,9.25

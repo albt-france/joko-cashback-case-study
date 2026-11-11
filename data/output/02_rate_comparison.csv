@@ -1,0 +1,317 @@
+merchant_id,merchant,category,widilo_pct,igraal_pct,gap_widilo_minus_igraal_pts,outcome
+2,123Pneus,Auto,2.0,1.25,0.75,Widilo higher
+42,Autodoc,Auto,6.0,6.5,-0.5,iGraal higher
+142,Daparto,Auto,2.0,1.66,0.34,Widilo higher
+183,Euromaster,Auto,2.5,4.0,-1.5,iGraal higher
+184,Europcar,Auto,6.5,8.0,-1.5,iGraal higher
+191,FC Moto,Auto,4.0,1.66,2.34,Widilo higher
+323,La Bécanerie,Auto,1.5,2.0,-0.5,iGraal higher
+377,Maxiscoot,Auto,3.0,2.5,0.5,Widilo higher
+378,Maxxess,Auto,4.0,2.5,1.5,Widilo higher
+396,Moto Axxe,Auto,4.0,2.5,1.5,Widilo higher
+418,Norauto,Auto,1.5,0.8,0.7,Widilo higher
+463,PiecesAuto24,Auto,5.0,4.5,0.5,Widilo higher
+557,Speedway,Auto,4.5,2.25,2.25,Widilo higher
+558,Speedy,Auto,7.0,4.2,2.8,Widilo higher
+574,Surplus Motos,Auto,2.0,2.75,-0.75,iGraal higher
+666,iDGarages,Auto,2.29,2.0,0.29,Widilo higher
+86,Bruneau,B2B,4.5,2.8,1.7,Widilo higher
+172,EasyFlyer,B2B,6.0,4.16,1.84,Widilo higher
+195,Farnell,B2B,4.0,4.0,0.0,tie
+205,Flexispot,B2B,5.0,4.0,1.0,Widilo higher
+229,Galaxus,B2B,3.0,2.5,0.5,Widilo higher
+448,Pandacola,B2B,3.0,1.66,1.34,Widilo higher
+468,Pixartprinting,B2B,7.5,6.2,1.3,Widilo higher
+469,Pixmania,B2B,4.0,2.0,2.0,Widilo higher
+477,PrintAbout,B2B,5.0,4.0,1.0,Widilo higher
+498,Raja,B2B,3.0,2.0,1.0,Widilo higher
+512,Rue Du Commerce,B2B,2.0,1.5,0.5,Widilo higher
+594,Toner Services,B2B,9.0,7.5,1.5,Widilo higher
+607,Ugreen,B2B,6.0,6.5,-0.5,iGraal higher
+626,VistaPrint,B2B,4.0,6.0,-2.0,iGraal higher
+673,reBuy,B2B,2.0,1.25,0.75,Widilo higher
+15,Adam et Eve,Beauty & health,5.0,4.0,1.0,Widilo higher
+78,Boticinal,Beauty & health,4.0,3.0,1.0,Widilo higher
+82,Braun,Beauty & health,1.5,4.0,-2.5,iGraal higher
+117,Christophe Robin,Beauty & health,8.0,7.0,1.0,Widilo higher
+120,Clarins,Beauty & health,8.33,4.0,4.33,Widilo higher
+163,Dr Pierre Ricaud,Beauty & health,6.0,5.5,0.5,Widilo higher
+165,Dyson,Beauty & health,5.0,4.0,1.0,Widilo higher
+204,Fleurance Nature,Beauty & health,12.0,12.0,0.0,tie
+249,Générale d'Optique,Beauty & health,7.0,4.5,2.5,Widilo higher
+256,Hairburst,Beauty & health,5.0,4.16,0.84,Widilo higher
+290,Izipizi,Beauty & health,6.5,2.75,3.75,Widilo higher
+303,KIKO,Beauty & health,5.75,5.0,0.75,Widilo higher
+307,Kerastase,Beauty & health,4.2,2.5,1.7,Widilo higher
+314,L'Occitane,Beauty & health,4.8,2.5,2.3,Widilo higher
+320,LOOKFANTASTIC,Beauty & health,7.2,6.0,1.2,Widilo higher
+321,La Boutique Du Coiffeur,Beauty & health,5.4,4.0,1.4,Widilo higher
+328,La Roche Posay,Beauty & health,7.5,2.75,4.75,Widilo higher
+338,Lentiamo,Beauty & health,3.0,2.5,0.5,Widilo higher
+341,Les poulettes,Beauty & health,5.0,4.16,0.84,Widilo higher
+355,Love and Vibes,Beauty & health,5.0,2.5,2.5,Widilo higher
+359,Léa Nature,Beauty & health,4.0,3.0,1.0,Widilo higher
+372,Marionnaud,Beauty & health,3.0,4.5,-1.5,iGraal higher
+416,Nocibé,Beauty & health,8.0,5.0,3.0,Widilo higher
+421,Notino,Beauty & health,3.0,2.5,0.5,Widilo higher
+425,Nuxe,Beauty & health,5.0,3.0,2.0,Widilo higher
+426,Oh my cream,Beauty & health,3.2,2.5,0.7,Widilo higher
+439,Oral-B,Beauty & health,7.5,7.5,0.0,tie
+459,Philips,Beauty & health,7.5,2.75,4.75,Widilo higher
+466,Pimpant,Beauty & health,7.5,2.5,5.0,Widilo higher
+467,Pin Up Secret,Beauty & health,5.04,2.5,2.54,Widilo higher
+501,Ray Ban,Beauty & health,6.5,5.25,1.25,Widilo higher
+529,Sephora,Beauty & health,3.0,3.0,0.0,tie
+530,Sexy Avenue,Beauty & health,7.0,5.75,1.25,Widilo higher
+570,Stylevana,Beauty & health,2.5,2.2,0.3,Widilo higher
+586,Thalasseo,Beauty & health,3.5,1.5,2.0,Widilo higher
+600,Treatwell,Beauty & health,2.5,2.0,0.5,Widilo higher
+642,Womanizer,Beauty & health,7.5,6.5,1.0,Widilo higher
+649,Yves Rocher,Beauty & health,4.67,3.5,1.17,Widilo higher
+668,iHerb,Beauty & health,8.0,2.0,6.0,Widilo higher
+31,Ammareal,Culture & leisure,5.0,2.5,2.5,Widilo higher
+49,BDfugue,Culture & leisure,5.6,3.33,2.27,Widilo higher
+108,Cdiscount Billetterie,Culture & leisure,0.5,0.4,0.1,Widilo higher
+115,Cheerz,Culture & leisure,8.0,4.5,3.5,Widilo higher
+136,DAZN,Culture & leisure,52.5,40.0,12.5,Widilo higher
+138,DJI,Culture & leisure,5.0,4.0,1.0,Widilo higher
+203,Fizzer,Culture & leisure,5.0,6.0,-1.0,iGraal higher
+333,Le Géant des Beaux-Arts,Culture & leisure,3.0,2.5,0.5,Widilo higher
+361,MYPOSTER,Culture & leisure,6.0,4.16,1.84,Widilo higher
+405,MyPhotobook,Culture & leisure,7.5,6.25,1.25,Widilo higher
+493,Qobuz,Culture & leisure,5.0,5.0,0.0,tie
+504,Recyclivre,Culture & leisure,2.5,2.0,0.5,Widilo higher
+505,Redbubble,Culture & leisure,2.5,2.0,0.5,Widilo higher
+621,Viapresse,Culture & leisure,10.0,20.0,-10.0,iGraal higher
+644,Woodbrass,Culture & leisure,4.2,2.5,1.7,Widilo higher
+13,Acer,Electronics,5.0,3.5,1.5,Widilo higher
+36,Asus,Electronics,3.0,15.0,-12.0,iGraal higher
+72,Bitdefender,Electronics,30.0,29.0,1.0,Widilo higher
+91,Burga,Electronics,2.5,2.0,0.5,Widilo higher
+102,Canon,Electronics,3.6,1.0,2.6,Widilo higher
+107,Cdiscount,Electronics,3.0,2.0,1.0,Widilo higher
+143,Darty,Electronics,10.5,8.0,2.5,Widilo higher
+162,Doro,Electronics,4.0,3.0,1.0,Widilo higher
+232,Gamivo,Electronics,2.5,2.0,0.5,Widilo higher
+242,Google Store,Electronics,6.0,5.0,1.0,Widilo higher
+252,HP,Electronics,2.0,1.0,1.0,Widilo higher
+253,HUAWEI,Electronics,5.0,1.0,4.0,Widilo higher
+271,Honor,Electronics,5.0,8.0,-3.0,iGraal higher
+283,Insta360,Electronics,2.25,2.0,0.25,Widilo higher
+291,JBL,Electronics,4.0,4.2,-0.2,iGraal higher
+306,Kaspersky,Electronics,15.0,21.0,-6.0,iGraal higher
+309,Kinguin,Electronics,2.8,6.0,-3.2,iGraal higher
+319,LG,Electronics,3.6,4.0,-0.4,iGraal higher
+337,Lenovo,Electronics,2.25,1.5,0.75,Widilo higher
+354,LoopEarplugs,Electronics,3.5,1.5,2.0,Widilo higher
+384,Micromania,Electronics,3.3,3.5,-0.2,iGraal higher
+428,Okamac,Electronics,3.0,1.5,1.5,Widilo higher
+446,PC-Portable,Electronics,6.0,3.33,2.67,Widilo higher
+451,Parallels,Electronics,10.0,11.0,-1.0,iGraal higher
+509,Roborock,Electronics,5.6,5.0,0.6,Widilo higher
+520,Samsung,Electronics,3.0,2.0,1.0,Widilo higher
+531,SharkNinja,Electronics,3.5,0.8,2.7,Widilo higher
+534,Siemens,Electronics,11.0,5.0,6.0,Widilo higher
+549,Sonos,Electronics,2.5,1.25,1.25,Widilo higher
+550,Sony,Electronics,1.5,7.0,-5.5,iGraal higher
+552,Soundcore,Electronics,4.5,4.25,0.25,Widilo higher
+567,Startselect,Electronics,3.5,1.5,2.0,Widilo higher
+645,Xiaomi,Electronics,3.5,3.0,0.5,Widilo higher
+665,iBOOD,Electronics,2.0,1.5,0.5,Widilo higher
+9,ASOS,Fashion,3.6,2.5,1.1,Widilo higher
+10,About You,Fashion,4.8,3.25,1.55,Widilo higher
+14,Achat or et argent,Fashion,0.3,0.3,0.0,tie
+38,Athena,Fashion,4.0,3.0,1.0,Widilo higher
+39,Aubade,Fashion,5.0,5.0,0.0,tie
+52,BOOHOOMAN,Fashion,9.0,13.0,-4.0,iGraal higher
+54,Baage,Fashion,5.0,2.75,2.25,Widilo higher
+67,Bershka,Fashion,2.0,2.0,0.0,tie
+73,Blancheporte,Fashion,5.33,3.5,1.83,Widilo higher
+96,Calvin Klein,Fashion,6.75,10.0,-3.25,iGraal higher
+113,Charles Tyrwhitt,Fashion,5.33,4.0,1.33,Widilo higher
+121,Cleor,Fashion,7.0,4.8,2.2,Widilo higher
+131,Crocs,Fashion,2.8,3.5,-0.7,iGraal higher
+141,Damart,Fashion,1.9,2.0,-0.1,iGraal higher
+148,Delsey,Fashion,3.25,2.5,0.75,Widilo higher
+171,Eastpak,Fashion,3.0,2.5,0.5,Widilo higher
+174,Eminence,Fashion,4.0,3.25,0.75,Widilo higher
+190,FARFETCH,Fashion,3.5,2.5,1.0,Widilo higher
+192,FOOTDISTRICT,Fashion,7.0,4.0,3.0,Widilo higher
+213,Foot Locker,Fashion,7.0,4.5,2.5,Widilo higher
+226,Furla,Fashion,3.0,2.5,0.5,Widilo higher
+250,H&M,Fashion,7.0,1.25,5.75,Widilo higher
+254,HUGO BOSS,Fashion,8.75,5.0,3.75,Widilo higher
+267,Histoire d'Or,Fashion,3.0,2.5,0.5,Widilo higher
+278,Ice-Watch,Fashion,4.0,3.5,0.5,Widilo higher
+281,Inderwear,Fashion,7.0,2.75,4.25,Widilo higher
+288,Isotoner,Fashion,5.0,2.75,2.25,Widilo higher
+289,Izac,Fashion,6.0,3.0,3.0,Widilo higher
+327,La Redoute,Fashion,2.0,1.0,1.0,Widilo higher
+329,Lacoste,Fashion,3.0,5.0,-2.0,iGraal higher
+343,Levi's,Fashion,7.0,6.0,1.0,Widilo higher
+371,Marc Orian,Fashion,3.0,2.5,0.5,Widilo higher
+382,Michael Kors,Fashion,1.5,4.5,-3.0,iGraal higher
+407,NET-A-PORTER,Fashion,1.5,1.25,0.25,Widilo higher
+413,New Era,Fashion,1.5,2.25,-0.75,iGraal higher
+449,Pandora,Fashion,7.0,5.0,2.0,Widilo higher
+478,Printemps.com,Fashion,6.0,4.0,2.0,Widilo higher
+482,Privé by Zalando,Fashion,3.33,3.5,-0.17,iGraal higher
+499,Ralph Lauren,Fashion,9.0,3.2,5.8,Widilo higher
+516,Réjeanne,Fashion,6.0,5.0,1.0,Widilo higher
+517,SHEIN,Fashion,25.0,1.0,24.0,Widilo higher
+522,Sans Complexe,Fashion,6.25,5.0,1.25,Widilo higher
+524,Sarenza,Fashion,6.0,4.5,1.5,Widilo higher
+545,Snipes,Fashion,2.5,2.0,0.5,Widilo higher
+556,Spartoo,Fashion,4.2,3.0,1.2,Widilo higher
+575,Swarovski,Fashion,2.0,1.5,0.5,Widilo higher
+585,Tezenis,Fashion,6.0,4.75,1.25,Widilo higher
+593,Tommy Hilfiger,Fashion,6.75,10.0,-3.25,iGraal higher
+647,Yoox,Fashion,2.1,1.25,0.85,Widilo higher
+650,Zadig&Voltaire,Fashion,10.0,5.0,5.0,Widilo higher
+147,Deliveroo,Food & grocery,2.4,1.24,1.16,Widilo higher
+160,Dolce Gusto,Food & grocery,5.0,8.0,-3.0,iGraal higher
+161,Domino's Pizza,Food & grocery,2.0,5.0,-3.0,iGraal higher
+315,L'Or Espresso,Food & grocery,9.0,6.5,2.5,Widilo higher
+334,Le Petit Ballon,Food & grocery,4.0,2.75,1.25,Widilo higher
+344,Lidl,Food & grocery,6.0,1.5,4.5,Widilo higher
+577,Takeaway Belgique,Food & grocery,8.0,5.0,3.0,Widilo higher
+613,Une Petite Mousse,Food & grocery,2.5,2.0,0.5,Widilo higher
+624,Vinatis,Food & grocery,1.5,2.5,-1.0,iGraal higher
+66,Bergamotte,Gifts & flowers,5.0,7.5,-2.5,iGraal higher
+71,Biotyfull Box,Gifts & flowers,2.5,1.7,0.8,Widilo higher
+74,Blissim,Gifts & flowers,4.0,4.5,-0.5,iGraal higher
+93,Buttinette,Gifts & flowers,4.0,3.33,0.67,Widilo higher
+94,C mon etiquette,Gifts & flowers,5.0,4.0,1.0,Widilo higher
+130,Cricut,Gifts & flowers,7.0,4.0,3.0,Widilo higher
+145,Deguise toi,Gifts & flowers,2.0,1.5,0.5,Widilo higher
+181,Etsy,Gifts & flowers,1.4,3.0,-1.6,iGraal higher
+230,Gambettes Box,Gifts & flowers,6.15,5.25,0.9,Widilo higher
+247,Groupon,Gifts & flowers,5.0,3.0,2.0,Widilo higher
+284,Interflora,Gifts & flowers,5.25,4.5,0.75,Widilo higher
+544,Smartbox,Gifts & flowers,7.5,6.0,1.5,Widilo higher
+597,Tostadora,Gifts & flowers,5.0,4.0,1.0,Widilo higher
+661,eBay,Gifts & flowers,2.0,0.8,1.2,Widilo higher
+34,Aosom,Home & garden,4.5,3.75,0.75,Widilo higher
+70,Bimago,Home & garden,2.5,2.0,0.5,Widilo higher
+83,Brico Dépôt,Home & garden,1.3,1.0,0.3,Widilo higher
+90,Bultex,Home & garden,3.5,2.75,0.75,Widilo higher
+106,Castorama,Home & garden,2.5,1.5,1.0,Widilo higher
+123,Comptoir des Nuits,Home & garden,3.25,2.5,0.75,Widilo higher
+124,Conforama,Home & garden,3.0,3.0,0.0,tie
+176,Emma,Home & garden,9.9,4.75,5.15,Widilo higher
+220,Françoise Saget,Home & garden,4.5,3.75,0.75,Widilo higher
+255,Habitat et Jardin,Home & garden,1.88,1.5,0.38,Widilo higher
+264,Hellodeco,Home & garden,7.0,4.0,3.0,Widilo higher
+275,IDmarket,Home & garden,10.0,1.75,8.25,Widilo higher
+294,Jardin Loisirs,Home & garden,3.5,3.0,0.5,Widilo higher
+305,Karcher,Home & garden,2.5,2.0,0.5,Widilo higher
+345,Lights4fun,Home & garden,2.5,2.0,0.5,Widilo higher
+347,Linvosges,Home & garden,4.0,3.5,0.5,Widilo higher
+357,Luminaire.fr,Home & garden,5.0,3.0,2.0,Widilo higher
+363,Madura,Home & garden,2.5,4.8,-2.3,iGraal higher
+365,Maison Berger,Home & garden,2.5,3.0,-0.5,iGraal higher
+367,Maisons du Monde,Home & garden,6.0,3.5,2.5,Widilo higher
+369,ManoMano,Home & garden,15.0,3.5,11.5,Widilo higher
+370,Manomano Pro,Home & garden,15.0,9.0,6.0,Widilo higher
+374,Maxi Zoo,Home & garden,6.0,3.5,2.5,Widilo higher
+381,Merinos,Home & garden,4.94,3.0,1.94,Widilo higher
+385,Miliboo,Home & garden,4.5,2.0,2.5,Widilo higher
+390,MonOeuvre,Home & garden,5.6,3.0,2.6,Widilo higher
+429,Olight Store,Home & garden,6.0,3.33,2.67,Widilo higher
+460,Philips Hue,Home & garden,3.5,2.75,0.75,Widilo higher
+527,Screwfix,Home & garden,4.0,2.5,1.5,Widilo higher
+548,Songmics,Home & garden,2.5,4.0,-1.5,iGraal higher
+581,Tempur,Home & garden,4.8,2.5,2.3,Widilo higher
+582,Temu,Home & garden,30.0,22.0,8.0,Widilo higher
+609,Ultra Premium Direct,Home & garden,9.8,8.0,1.8,Widilo higher
+619,Vevor,Home & garden,2.0,2.2,-0.2,iGraal higher
+622,Vidaxl,Home & garden,3.0,2.5,0.5,Widilo higher
+627,Vitrine Magique,Home & garden,5.0,4.0,1.0,Widilo higher
+654,Zooplus,Home & garden,2.25,2.0,0.25,Widilo higher
+64,Beaba,Kids,6.0,2.75,3.25,Widilo higher
+77,Boden,Kids,5.0,2.5,2.5,Widilo higher
+135,Cyrillus,Kids,3.33,2.0,1.33,Widilo higher
+154,Disney Store,Kids,4.5,2.5,2.0,Widilo higher
+297,Joueclub,Kids,2.8,2.0,0.8,Widilo higher
+308,Kids Around,Kids,3.6,4.0,-0.4,iGraal higher
+318,LEGO®,Kids,5.0,6.5,-1.5,iGraal higher
+324,La Grande Récré,Kids,2.5,4.0,-1.5,iGraal higher
+340,Les Petits Prödiges,Kids,2.5,2.0,0.5,Widilo higher
+358,Lunii,Kids,7.0,3.0,4.0,Widilo higher
+441,Orchestra,Kids,5.0,5.0,0.0,tie
+500,Ravensburger,Kids,5.0,3.0,2.0,Widilo higher
+543,Smallable,Kids,2.5,2.0,0.5,Widilo higher
+20,AliExpress,Marketplaces (Asia),27.0,20.0,7.0,Widilo higher
+60,Banggood,Marketplaces (Asia),6.5,5.0,1.5,Widilo higher
+137,DHgate,Marketplaces (Asia),3.0,1.25,1.75,Widilo higher
+234,Geekbuying,Marketplaces (Asia),4.0,2.5,1.5,Widilo higher
+296,Joom,Marketplaces (Asia),9.5,7.75,1.75,Widilo higher
+630,Voghion,Marketplaces (Asia),10.5,5.0,5.5,Widilo higher
+92,Busuu,Services & finance,10.0,8.25,1.75,Widilo higher
+118,Chronopost,Services & finance,4.0,3.0,1.0,Widilo higher
+125,Conteenium,Services & finance,4.0,3.0,1.0,Widilo higher
+127,Cours Griffon,Services & finance,6.0,5.0,1.0,Widilo higher
+134,CyberGhost VPN,Services & finance,65.0,50.0,15.0,Widilo higher
+187,ExpressVPN,Services & finance,24.31,30.0,-5.69,iGraal higher
+273,Hostinger,Services & finance,41.25,30.0,11.25,Widilo higher
+419,NordVPN,Services & finance,45.0,35.0,10.0,Widilo higher
+533,Shop2Shop,Services & finance,2.5,2.0,0.5,Widilo higher
+573,Surfshark,Services & finance,20.0,40.0,-20.0,iGraal higher
+606,Udemy,Services & finance,5.0,4.0,1.0,Widilo higher
+8,ASICS,Sports,5.33,2.5,2.83,Widilo higher
+53,BSTN,Sports,9.0,3.0,6.0,Widilo higher
+119,Citadium,Sports,3.5,4.5,-1.0,iGraal higher
+122,Click & Boat,Sports,8.0,3.5,4.5,Widilo higher
+201,Fitadium,Sports,3.0,4.0,-1.0,iGraal higher
+202,Fitness Boutique,Sports,2.5,2.0,0.5,Widilo higher
+214,Foot Store,Sports,2.5,2.0,0.5,Widilo higher
+243,Gorilla Sports,Sports,2.0,3.3,-1.3,iGraal higher
+248,Gymshark,Sports,2.4,3.2,-0.8,iGraal higher
+258,Handball Store,Sports,2.5,2.0,0.5,Widilo higher
+260,Hardloop,Sports,0.5,1.0,-0.5,iGraal higher
+292,JD Sports,Sports,5.0,2.75,2.25,Widilo higher
+406,Myprotein,Sports,10.0,5.5,4.5,Widilo higher
+412,Netski,Sports,5.0,2.2,2.8,Widilo higher
+481,Private Sport Shop,Sports,1.75,2.5,-0.75,iGraal higher
+484,Protein Works,Sports,14.0,5.0,9.0,Widilo higher
+489,Puma,Sports,4.0,11.0,-7.0,iGraal higher
+539,SkiSet,Sports,4.0,4.0,0.0,tie
+560,Sport Découverte,Sports,4.0,4.0,0.0,tie
+562,Sports Direct,Sports,2.5,1.25,1.25,Widilo higher
+583,Tennis-Point,Sports,1.5,2.08,-0.58,iGraal higher
+612,Under Armour,Sports,7.0,3.5,3.5,Widilo higher
+657,adidas,Sports,6.0,4.5,1.5,Widilo higher
+664,i-Run,Sports,4.0,4.0,0.0,tie
+671,lululemon,Sports,7.0,4.5,2.5,Widilo higher
+519,Saily,Telecom & subscriptions,6.0,9.0,-3.0,iGraal higher
+6,ALL - Accor Live Limitless,Travel,10.5,4.0,6.5,Widilo higher
+11,Abritel,Travel,4.5,3.0,1.5,Widilo higher
+17,Agoda,Travel,3.0,9.5,-6.5,iGraal higher
+19,Air France,Travel,0.82,2.0,-1.18,iGraal higher
+35,Appart'City,Travel,3.0,1.75,1.25,Widilo higher
+44,Avis,Travel,7.5,6.0,1.5,Widilo higher
+47,B&B HOTELS,Travel,3.0,3.0,0.0,tie
+84,Brit Hotel,Travel,4.2,3.33,0.87,Widilo higher
+87,Budget,Travel,5.0,4.0,1.0,Widilo higher
+98,Campanile,Travel,3.6,2.5,1.1,Widilo higher
+100,Campings.com,Travel,1.5,1.0,0.5,Widilo higher
+153,Direct Ferries,Travel,2.0,1.5,0.5,Widilo higher
+186,Expedia,Travel,5.0,3.0,2.0,Widilo higher
+198,Fever,Travel,10.0,8.8,1.2,Widilo higher
+207,Flixbus,Travel,2.5,2.5,0.0,tie
+217,Fram,Travel,3.0,2.0,1.0,Widilo higher
+236,GetYourGuide,Travel,5.0,12.0,-7.0,iGraal higher
+274,Hotels.com,Travel,6.0,4.0,2.0,Widilo higher
+353,Looking4parking,Travel,4.0,2.0,2.0,Widilo higher
+356,Lufthansa,Travel,0.75,0.7,0.05,Widilo higher
+430,Omio,Travel,2.0,1.0,1.0,Widilo higher
+444,Ouigo,Travel,2.0,1.5,0.5,Widilo higher
+492,Qatar Airways,Travel,2.5,0.9,1.6,Widilo higher
+537,Sixt,Travel,4.2,8.0,-3.8,iGraal higher
+553,Sowell,Travel,2.5,2.0,0.5,Widilo higher
+571,Sunparks,Travel,2.5,2.0,0.5,Widilo higher
+591,Tiqets,Travel,2.5,2.5,0.0,tie
+598,Trainline,Travel,6.0,15.0,-9.0,iGraal higher
+602,Trip.com,Travel,3.5,12.0,-8.5,iGraal higher
+632,Voyage Privé,Travel,3.5,4.0,-0.5,iGraal higher
+651,Ze Camping,Travel,3.2,2.5,0.7,Widilo higher

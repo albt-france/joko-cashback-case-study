@@ -1,0 +1,16 @@
+date,date_precision,event,metric,value,source,source_url,collected_on
+2018-01-01,year,Joko founded in Paris by three co-founders,,,"Joko press release (PR Newswire, 2026-09-21)",https://www.prnewswire.com/news-releases/joko-the-ai-powered-shopping-app-is-now-available-in-the-us-302884105.html,2026-11-11
+2018-08-20,day,iOS app first released on the French App Store,,,iTunes Search API (releaseDate),https://itunes.apple.com/lookup?id=1378996692&country=fr,2026-11-11
+2019-07-01,month,Seed round (amount not disclosed in the sources read),,,Dealroom company profile,https://dealroom.co/companies/joko/,2026-11-11
+2020-10-07,day,"EUR 10M round led by Partech and Axeleo (EUR 12M raised in total)",users,500000,Partech press release,https://partechpartners.com/news/the-fintech-joko-raises-10-million-to-disrupt-cashback-in-europe,2026-11-11
+2020-10-07,day,"Partner retailers at the time of the round",merchants,1000,Partech press release,https://partechpartners.com/news/the-fintech-joko-raises-10-million-to-disrupt-cashback-in-europe,2026-11-11
+2020-10-07,day,"Team size at the time of the round",employees,25,Partech press release,https://partechpartners.com/news/the-fintech-joko-raises-10-million-to-disrupt-cashback-in-europe,2026-11-11
+2022-05-13,day,App available on the US App Store,,,iTunes Search API (US storefront releaseDate),https://itunes.apple.com/lookup?id=1378996692&country=us,2026-11-11
+2026-09-21,day,"Official US launch of the Joko app with the AI assistant Juno (Joko USA, Inc.)",users,6000000,"Joko press release (PR Newswire)",https://www.prnewswire.com/news-releases/joko-the-ai-powered-shopping-app-is-now-available-in-the-us-302884105.html,2026-11-11
+2026-09-21,day,"Partner merchants announced at US launch",merchants,10000,"Joko press release (PR Newswire)",https://www.prnewswire.com/news-releases/joko-the-ai-powered-shopping-app-is-now-available-in-the-us-302884105.html,2026-11-11
+2026-09-21,day,"Juno product catalogue (products / merchants covered)",juno_catalogue_merchants,40000,"Joko press release (PR Newswire)",https://www.prnewswire.com/news-releases/joko-the-ai-powered-shopping-app-is-now-available-in-the-us-302884105.html,2026-11-11
+2026-11-11,day,"Job posting: B Corp certified, 120+ people (Paris, Barcelona, New York), profitable in its core market, global expansion with a US focus",users,7000000,Joko Data Analyst job posting (Welcome to the Jungle),https://www.welcometothejungle.com/en/companies/joko,2026-11-11
+2026-11-11,day,Job posting: partner merchants,merchants,10000,Joko Data Analyst job posting (Welcome to the Jungle),https://www.welcometothejungle.com/en/companies/joko,2026-11-11
+2026-11-11,day,"Homepage: brands to save with every day (""3 500 marques"")",brands_homepage,3500,Joko homepage (FR),https://home.joko.com/fr,2026-11-11
+2026-11-11,day,App Store ratings (France),app_store_ratings_fr,80270,iTunes Search API,https://itunes.apple.com/lookup?id=1378996692&country=fr,2026-11-11
+2026-11-11,day,App Store ratings (US),app_store_ratings_us,1788,iTunes Search API,https://itunes.apple.com/lookup?id=1378996692&country=us,2026-11-11

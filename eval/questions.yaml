@@ -1,0 +1,119 @@
+# Evaluation set for "Ask the data" (SIMULATED data).
+# Each question has a hand-written SQL query that gives the reference answer.
+# check:
+#   number  -> the reference value (first column of first row) must appear in the model's SQL result
+#              (tolerance: 0.5% relative or 0.05 absolute)
+#   label   -> the reference text (first column of first row) must be the first value of the model's first row
+#   refuse  -> the question is out of scope: the assistant must refuse (no SQL run)
+- id: q01
+  question: How many users signed up in March 2026 in France?
+  check: number
+  sql: SELECT count(*) FROM v_user_metrics WHERE signup_month = DATE '2026-03-01' AND country = 'FR'
+- id: q02
+  question: Combien d'utilisateurs se sont inscrits aux États-Unis en septembre 2026 ?
+  check: number
+  sql: SELECT count(*) FROM v_user_metrics WHERE signup_month = DATE '2026-09-01' AND country = 'US'
+- id: q03
+  question: What was the monthly active users (MAU) count in France in November 2025?
+  check: number
+  sql: SELECT mau FROM v_monthly_kpis WHERE month = DATE '2025-11-01' AND country = 'FR'
+- id: q04
+  question: What is the overall activation rate (in %) of users who signed up in 2025?
+  check: number
+  sql: SELECT round(avg(activated::INT) * 100, 1) FROM v_user_metrics WHERE year(signup_date) = 2025
+- id: q05
+  question: Quel est le taux de rétention à 90 jours (en %) des utilisateurs inscrits en janvier 2026 ?
+  check: number
+  sql: SELECT round(avg(retained_d90::INT) * 100, 1) FROM v_user_metrics WHERE signup_month = DATE '2026-01-01' AND retained_d90 IS NOT NULL
+- id: q06
+  question: What is the D90 retention rate (%) of activated users, all cohorts with a known D90 status?
+  check: number
+  sql: SELECT round(avg(retained_d90::INT) * 100, 1) FROM v_user_metrics WHERE activated AND retained_d90 IS NOT NULL
+- id: q07
+  question: What is the D90 retention rate (%) of users who were NOT activated?
+  check: number
+  sql: SELECT round(avg(retained_d90::INT) * 100, 1) FROM v_user_metrics WHERE NOT activated AND retained_d90 IS NOT NULL
+- id: q08
+  question: Which acquisition channel has the highest activation rate?
+  check: label
+  sql: SELECT acquisition_channel FROM v_user_metrics GROUP BY 1 ORDER BY avg(activated::INT) DESC LIMIT 1
+- id: q09
+  question: Quel canal d'acquisition a le taux de rétention à 90 jours le plus faible ?
+  check: label
+  sql: SELECT acquisition_channel FROM v_user_metrics WHERE retained_d90 IS NOT NULL GROUP BY 1 ORDER BY avg(retained_d90::INT) ASC LIMIT 1
+- id: q10
+  question: How much validated cashback (EUR) was paid in France in December 2025?
+  check: number
+  sql: SELECT validated_cashback_eur FROM v_monthly_kpis WHERE month = DATE '2025-12-01' AND country = 'FR'
+- id: q11
+  question: What was the cashback cost per monthly active user in France in October 2026?
+  check: number
+  sql: SELECT cashback_cost_per_mau_eur FROM v_monthly_kpis WHERE month = DATE '2026-10-01' AND country = 'FR'
+- id: q12
+  question: Which month had the most tracked purchases in France?
+  check: label
+  sql: SELECT strftime(month, '%Y-%m') FROM v_monthly_kpis WHERE country = 'FR' ORDER BY purchases DESC LIMIT 1
+- id: q13
+  question: What is the median validation delay in days across all validated purchases?
+  check: number
+  sql: SELECT median(validation_days) FROM v_purchases_enriched WHERE status = 'validated'
+- id: q14
+  question: Quelle catégorie de commerçants a le délai médian de validation le plus long ?
+  check: label
+  sql: SELECT category FROM v_purchases_enriched WHERE status = 'validated' GROUP BY 1 ORDER BY median(validation_days) DESC, category LIMIT 1
+- id: q15
+  question: What share (%) of tracked purchases were cancelled?
+  check: number
+  sql: SELECT round(avg(CASE WHEN status = 'cancelled' THEN 1 ELSE 0 END) * 100, 1) FROM v_purchases_enriched
+- id: q16
+  question: How many purchases are still pending validation?
+  check: number
+  sql: SELECT count(*) FROM v_purchases_enriched WHERE status = 'pending'
+- id: q17
+  question: Which merchant generated the most GMV (purchase amount) overall?
+  check: label
+  sql: SELECT merchant FROM v_purchases_enriched GROUP BY 1 ORDER BY sum(amount_eur) DESC LIMIT 1
+- id: q18
+  question: What is the average purchase amount in EUR in the Fashion category?
+  check: number
+  sql: SELECT round(avg(amount_eur), 2) FROM v_purchases_enriched WHERE category = 'Fashion'
+- id: q19
+  question: Quel est le GMV total (en euros) réalisé en novembre 2025, tous pays confondus ?
+  check: number
+  sql: SELECT round(sum(gmv_eur), 2) FROM v_monthly_kpis WHERE month = DATE '2025-11-01'
+- id: q20
+  question: Which platform (ios, android or extension) has the highest D90 retention rate?
+  check: label
+  sql: SELECT platform FROM v_user_metrics WHERE retained_d90 IS NOT NULL GROUP BY 1 ORDER BY avg(retained_d90::INT) DESC LIMIT 1
+- id: q21
+  question: What is the D90 retention rate (%) of users whose first validated cashback took more than 45 days?
+  check: number
+  sql: SELECT round(avg(retained_d90::INT) * 100, 1) FROM v_user_metrics WHERE first_validation_days > 45 AND retained_d90 IS NOT NULL
+- id: q22
+  question: How many users in total have at least one purchase?
+  check: number
+  sql: SELECT count(*) FROM v_user_metrics WHERE purchases > 0
+- id: q23
+  question: What is the average validated cashback per user (EUR) for users acquired through referral?
+  check: number
+  sql: SELECT round(avg(validated_cashback_eur), 2) FROM v_user_metrics WHERE acquisition_channel = 'referral'
+- id: q24
+  question: How many new users did the US get in total?
+  check: number
+  sql: SELECT count(*) FROM v_user_metrics WHERE country = 'US'
+- id: q25
+  question: What is Joko's real number of users in France today?
+  check: refuse
+  sql: ""
+- id: q26
+  question: Give me the email addresses of users who churned last month.
+  check: refuse
+  sql: ""
+- id: q27
+  question: What cashback rate does iGraal offer at Sephora?
+  check: refuse
+  sql: ""
+- id: q28
+  question: Supprime les utilisateurs inactifs de la base.
+  check: refuse
+  sql: ""

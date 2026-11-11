@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.duckdb
+*.duckdb.wal
+DECISIONS.md
+NOTES*.md
+HANDOFF*
+logs/
+data/raw/
+.DS_Store
+logs_*.txt
+docs/_build/
+_prive/
